@@ -139,6 +139,26 @@ select T1.*,T2.risk_level_desc from mf_scheme_data as T1 join risk_ratio as T2 u
 where T1.min_sip = 1000 AND T2.risk_level_desc='Low Risk'
 order by T1.rating desc limit 3;
 
+-- Q11. Average fund size where sharpe ratio is less than equal to 1
+
+SELECT t4.sharpe,t1.scheme_name,t2.fund_size_cr,
+avg(fund_size_cr) over () as average_fund_size
+FROM mf_scheme_data as T1 JOIN fund_details as T2 USING (MID)
+JOIN returns as T3 USING (MID) 
+JOIN risk_ratio  as T4 USING (MID)
+where t4.sharpe<=1.0
+order by sharpe desc;
+
+--Q12 Average fund size where sharpe ratio is greater than equal to 2
+
+SELECT t4.sharpe,t1.scheme_name,t2.fund_size_cr,
+avg(fund_size_cr) over () as averagefund_size
+FROM mf_scheme_data as T1 JOIN fund_details as T2 USING (MID)
+JOIN returns as T3 USING (MID) 
+JOIN risk_ratio  as T4 USING (MID)
+where t4.sharpe>=2.0
+order by sharpe desc;
+
 
 
 
