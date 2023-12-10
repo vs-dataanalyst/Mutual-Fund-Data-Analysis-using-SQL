@@ -1,0 +1,815 @@
+MID,scheme_name,min_sip,min_lumpsum,expense_ratio,amc_name,rating,category,sub_category
+1,Aditya Birla SL Active Debt Multi-Mgr FoF-Dir Growth,100,100,0.27,Aditya Birla Sun Life Mutual Fund,3,Other,FoFs Domestic
+2,Aditya Birla SL Arbitrage Fund,1000,1000,0.36,Aditya Birla Sun Life Mutual Fund,3,Hybrid,Arbitrage Mutual Funds
+3,Aditya Birla SL Asset Allocator FoF-Dir Growth,1000,1000,0.53,Aditya Birla Sun Life Mutual Fund,3,Other,FoFs Domestic
+4,Aditya Birla SL Bal Bhavishya Yojna – Dir Growth,500,1000,0.76,Aditya Birla Sun Life Mutual Fund,2,Solution Oriented,Childrens Funds
+5,Aditya Birla SL Balanced Advantage Fund,100,100,0.61,Aditya Birla Sun Life Mutual Fund,4,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+6,Aditya Birla SL Banking&Financial Services-DirGrowth,1000,1000,1.17,Aditya Birla Sun Life Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+7,Aditya Birla SL Banking&PSU Debt Fund,1000,1000,0.37,Aditya Birla Sun Life Mutual Fund,4,Debt,Banking and PSU Mutual Funds
+8,Aditya Birla SL CEF – Global Agri Plan-Direct Growth,1000,1000,1.29,Aditya Birla Sun Life Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+9,Aditya Birla SL Corporate Bond Fund,100,100,0.31,Aditya Birla Sun Life Mutual Fund,4,Debt,Corporate Bond Mutual Funds
+10,Aditya Birla SL Credit Risk Fund,100,100,0.69,Aditya Birla Sun Life Mutual Fund,4,Debt,Credit Risk Funds
+11,Aditya Birla SL Digital India Fund,100,1000,0.88,Aditya Birla Sun Life Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+12,Aditya Birla SL Dividend Yield Fund,1000,1000,1.73,Aditya Birla Sun Life Mutual Fund,0,Equity,Dividend Yield Funds
+13,Aditya Birla SL Dynamic Bond Fund,1000,1000,0.64,Aditya Birla Sun Life Mutual Fund,5,Debt,Dynamic Bond
+14,Aditya Birla SL Equity Advantage Fund,1000,1000,1.14,Aditya Birla Sun Life Mutual Fund,1,Equity,Large & Mid Cap Funds
+15,Aditya Birla SL Equity Hybrid ’95 Fund,100,100,1.01,Aditya Birla Sun Life Mutual Fund,2,Hybrid,Aggressive Hybrid Mutual Funds
+16,Aditya Birla SL Equity Savings Fund,1000,1000,1.21,Aditya Birla Sun Life Mutual Fund,2,Hybrid,Equity Savings Mutual Funds
+17,Aditya Birla SL Flexi Cap Fund,100,100,0.86,Aditya Birla Sun Life Mutual Fund,3,Equity,Flexi Cap Funds
+18,Aditya Birla SL Floating Rate Fund,1000,1000,0.23,Aditya Birla Sun Life Mutual Fund,5,Debt,Floater Mutual Funds
+19,Aditya Birla SL Focused Equity Fund,1000,1000,1.06,Aditya Birla Sun Life Mutual Fund,3,Equity,Focused Funds
+20,Aditya Birla SL FP FoF – Aggressive – Direct Growth,100,100,0.22,Aditya Birla Sun Life Mutual Fund,3,Other,FoFs Domestic
+21,Aditya Birla SL FP FoF – Conservative – Direct Growth,100,100,0.34,Aditya Birla Sun Life Mutual Fund,4,Other,FoFs Domestic
+22,Aditya Birla SL FP FoF – Moderate – Direct Growth,100,100,0.36,Aditya Birla Sun Life Mutual Fund,3,Other,FoFs Domestic
+23,Aditya Birla SL Frontline Equity Fund,100,100,1.03,Aditya Birla Sun Life Mutual Fund,3,Equity,Large Cap Mutual Funds
+24,Aditya Birla SL Global Emerging Oppt Fund,100,100,0.7,Aditya Birla Sun Life Mutual Fund,0,Other,FoFs Overseas
+25,Aditya Birla SL Gold Fund,100,100,0.15,Aditya Birla Sun Life Mutual Fund,2,Other,FoFs Domestic
+26,Aditya Birla SL Govt Securities Fund,1000,1000,0.29,Aditya Birla Sun Life Mutual Fund,3,Debt,Gilt Mutual Funds
+27,Aditya Birla SL Income Fund,1000,5000,0.49,Aditya Birla Sun Life Mutual Fund,4,Debt,Medium to Long Duration Funds
+28,Aditya Birla SL India GenNext Fund,1000,1000,0.82,Aditya Birla Sun Life Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+29,Aditya Birla SL Infrastructure Fund,1000,1000,1.7,Aditya Birla Sun Life Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+30,Aditya Birla SL Inter Equity – Plan A-Direct Growth,1000,1000,1.75,Aditya Birla Sun Life Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+31,Aditya Birla SL Inter Equity – Plan B-Direct Growth,1000,1000,2.15,Aditya Birla Sun Life Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+32,Aditya Birla SL Liquid Fund,500,500,0.21,Aditya Birla Sun Life Mutual Fund,4,Debt,Liquid Mutual Funds
+33,Aditya Birla SL Low Duration Fund,100,100,0.39,Aditya Birla Sun Life Mutual Fund,4,Debt,Low Duration Funds
+34,Aditya Birla SL Manufacturing Equity Fund,1000,1000,1.56,Aditya Birla Sun Life Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+35,Aditya Birla SL Medium Term Plan – Direct Growth,1000,1000,0.86,Aditya Birla Sun Life Mutual Fund,5,Debt,Medium Duration Funds
+36,Aditya Birla SL Midcap Fund,1000,1000,1.2,Aditya Birla Sun Life Mutual Fund,1,Equity,Mid Cap Mutual Funds
+37,Aditya Birla SL Money Manager Fund,1000,1000,0.21,Aditya Birla Sun Life Mutual Fund,4,Debt,Money Market Funds
+38,Aditya Birla SL Nifty 50 Index Fund,1000,100,0.32,Aditya Birla Sun Life Mutual Fund,3,Other,Index Funds
+39,Aditya Birla SL Overnight Fund,0,5000,0.07,Aditya Birla Sun Life Mutual Fund,3,Debt,Overnight Mutual Funds
+40,Aditya Birla SL Pure Value Fund,1000,1000,1.12,Aditya Birla Sun Life Mutual Fund,1,Equity,Value Funds
+41,Aditya Birla SL Regular Savings Fund,500,500,0.92,Aditya Birla Sun Life Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+42,Aditya Birla SL Retirement-The 30s Plan-Dir Growth,500,1000,1.06,Aditya Birla Sun Life Mutual Fund,2,Solution Oriented,Retirement Funds
+43,Aditya Birla SL Retirement-The 40s Plan-Dir Growth,500,1000,1.07,Aditya Birla Sun Life Mutual Fund,2,Solution Oriented,Retirement Funds
+44,Aditya Birla SL Retirement-The 50s Plan-Dir Growth,500,1000,0.63,Aditya Birla Sun Life Mutual Fund,2,Solution Oriented,Retirement Funds
+45,Aditya Birla SL Retirement-The 50sPlus-Debt-DirGrowth,500,1000,0.85,Aditya Birla Sun Life Mutual Fund,1,Solution Oriented,Retirement Funds
+46,Aditya Birla SL Savings Fund,1000,1000,0.34,Aditya Birla Sun Life Mutual Fund,4,Debt,Ultra Short Duration Funds
+47,Aditya Birla SL Short Term Fund,1000,1000,0.38,Aditya Birla Sun Life Mutual Fund,4,Debt,Short Duration Funds
+48,Aditya Birla SL Small Cap Fund,1000,1000,1.04,Aditya Birla Sun Life Mutual Fund,1,Equity,Small Cap Mutual Funds
+49,Aditya Birla SL Tax Relief ’96 – Direct Growth,500,500,0.93,Aditya Birla Sun Life Mutual Fund,1,Equity,ELSS Mutual Funds
+50,AXIS All Seasons Debt Fund,1000,5000,0.22,Axis Mutual Fund,4,Other,FoFs Domestic
+51,AXIS Arbitrage Fund,1000,500,0.31,Axis Mutual Fund,4,Hybrid,Arbitrage Mutual Funds
+52,AXIS Balanced Advantage Fund,1000,500,0.7,Axis Mutual Fund,2,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+53,AXIS Banking & PSU Debt Fund,1000,5000,0.33,Axis Mutual Fund,4,Debt,Banking and PSU Mutual Funds
+54,AXIS Bluechip Fund,500,500,0.63,Axis Mutual Fund,4,Equity,Large Cap Mutual Funds
+55,AXIS Children’s Gift Fund,1000,5000,1.06,Axis Mutual Fund,0,Solution Oriented,Childrens Funds
+56,AXIS Corporate Debt Fund,1000,5000,0.22,Axis Mutual Fund,5,Debt,Corporate Bond Mutual Funds
+57,AXIS Credit Risk Fund,1000,5000,0.81,Axis Mutual Fund,4,Debt,Credit Risk Funds
+58,AXIS Dynamic Bond Fund,1000,5000,0.26,Axis Mutual Fund,2,Debt,Dynamic Bond
+59,AXIS Equity Hybrid Fund,1000,500,0.89,Axis Mutual Fund,2,Hybrid,Aggressive Hybrid Mutual Funds
+60,AXIS Equity Saver Fund,1000,500,0.88,Axis Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+61,AXIS Flexi Cap Fund,500,500,0.7,Axis Mutual Fund,4,Equity,Flexi Cap Funds
+62,AXIS Floater Fund,1000,5000,0.16,Axis Mutual Fund,2,Debt,Floater Mutual Funds
+63,AXIS Focused 25 Fund,500,500,0.74,Axis Mutual Fund,2,Equity,Focused Funds
+64,AXIS FTP – Series 104 – 1112Days,0,0,0.13,Axis Mutual Fund,0,Debt,Fixed Maturity Plans
+65,AXIS FTP – Series 109 – 111Days,0,0,0,Axis Mutual Fund,0,Debt,Fixed Maturity Plans
+66,AXIS Gilt Fund,1000,5000,0.39,Axis Mutual Fund,4,Debt,Gilt Mutual Funds
+67,AXIS Gold Fund,1000,5000,0.17,Axis Mutual Fund,4,Other,FoFs Domestic
+68,AXIS Growth Opportunities Fund,1000,500,0.59,Axis Mutual Fund,3,Equity,Large & Mid Cap Funds
+69,AXIS Liquid Fund,0,500,0.15,Axis Mutual Fund,4,Debt,Liquid Mutual Funds
+70,AXIS Long Term Equity Fund,500,500,0.85,Axis Mutual Fund,2,Equity,ELSS Mutual Funds
+71,AXIS Midcap Fund,500,500,0.57,Axis Mutual Fund,5,Equity,Mid Cap Mutual Funds
+72,AXIS Money Market Fund,1000,5000,0.21,Axis Mutual Fund,4,Debt,Money Market Funds
+73,AXIS Nifty 100 Index Fund,1000,500,0.15,Axis Mutual Fund,3,Other,Index Funds
+74,AXIS Overnight Fund,0,500,0.05,Axis Mutual Fund,4,Debt,Overnight Mutual Funds
+75,AXIS Regular Saver Fund,1000,500,0.86,Axis Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+76,AXIS Retirement Savings Fund,1000,5000,0.6,Axis Mutual Fund,2,Solution Oriented,Retirement Funds
+77,AXIS Retirement Savings Fund,1000,5000,0.41,Axis Mutual Fund,2,Solution Oriented,Retirement Funds
+78,AXIS Retirement Savings Fund,1000,5000,0.65,Axis Mutual Fund,1,Solution Oriented,Retirement Funds
+79,AXIS Short Term Fund,1000,5000,0.3,Axis Mutual Fund,4,Debt,Short Duration Funds
+80,AXIS Small Cap Fund,500,500,0.54,Axis Mutual Fund,5,Equity,Small Cap Mutual Funds
+81,AXIS Strategic Bond Fund,1000,5000,0.39,Axis Mutual Fund,4,Debt,Medium Duration Funds
+82,AXIS Treasury Advantage Fund,1000,5000,0.29,Axis Mutual Fund,4,Debt,Low Duration Funds
+83,AXIS Triple Advantage Fund,1000,500,0.72,Axis Mutual Fund,2,Hybrid,Multi Asset Allocation Mutual Funds
+84,AXIS Ultra Short Term Fund,1000,5000,0.31,Axis Mutual Fund,4,Debt,Ultra Short Duration Funds
+85,Bandhan Asset Allocation FoF – Moderate – Direct Growth,100,1000,0.42,Bandhan Mutual Fund,0,Other,FoFs Domestic
+86,Bandhan FTP – Sr.179,0,5000,0.05,Bandhan Mutual Fund,0,Debt,Fixed Maturity Plans
+87,Bank of India Arbitrage Fund,1000,5000,0.98,Bank of India Mutual Fund,1,Hybrid,Arbitrage Mutual Funds
+88,Bank of India Balanced Advantage Fund,1000,5000,2.07,Bank of India Mutual Fund,2,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+89,Bank of India Conservative Hybrid Fund,1000,10000,2.2,Bank of India Mutual Fund,4,Hybrid,Conservative Hybrid Mutual Funds
+90,Bank of India Credit Risk Fund,0,5000,1.54,Bank of India Mutual Fund,5,Debt,Credit Risk Funds
+91,Bank of India Large & Mid Cap Equity Fund,1000,5000,1.89,Bank of India Mutual Fund,2,Equity,Large & Mid Cap Funds
+92,Bank of India Liquid Fund,0,5000,0.18,Bank of India Mutual Fund,4,Debt,Liquid Mutual Funds
+93,Bank of India Manufacturing & Infrastr Fund,1000,5000,1.55,Bank of India Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+94,Bank of India Mid & Small Cap Equity & Debt Fund,1000,5000,1.92,Bank of India Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+95,Bank of India Midcap Tax Fund,0,500,0.95,Bank of India Mutual Fund,0,Equity,ELSS Mutual Funds
+96,Bank of India Midcap Tax Fund,0,500,0.56,Bank of India Mutual Fund,0,Equity,ELSS Mutual Funds
+97,Bank of India Overnight Fund,0,5000,0.17,Bank of India Mutual Fund,5,Debt,Overnight Mutual Funds
+98,Bank of India Short Term Income – Direct Growth,1000,5000,0.98,Bank of India Mutual Fund,5,Debt,Short Duration Funds
+99,Bank of India Small Cap Fund,1000,5000,1.52,Bank of India Mutual Fund,4,Equity,Small Cap Mutual Funds
+100,Bank of India Tax Advantage Fund,500,500,1.31,Bank of India Mutual Fund,4,Equity,ELSS Mutual Funds
+101,Bank of India Ultra Short Duration Fund,1000,5000,0.36,Bank of India Mutual Fund,2,Debt,Ultra Short Duration Funds
+102,Baroda BNP Paribas Aggressive Hybrid Fund,300,5000,0.61,Baroda BNP Paribas Mutual Fund,5,Hybrid,Aggressive Hybrid Mutual Funds
+103,Baroda BNP Paribas Arbitrage Fund,300,5000,0.49,Baroda BNP Paribas Mutual Fund,3,Hybrid,Arbitrage Mutual Funds
+104,Baroda BNP Paribas Balanced Advantage Fund,500,5000,0.64,Baroda BNP Paribas Mutual Fund,4,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+105,Baroda BNP Paribas Banking & PSU Bond Fund,500,5000,0.39,Baroda BNP Paribas Mutual Fund,2,Debt,Banking and PSU Mutual Funds
+106,Baroda BNP Paribas Banking&Fin Serv Fund,500,5000,1.63,Baroda BNP Paribas Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+107,Baroda BNP Paribas Conservative Hybrid Fund,300,1000,0.78,Baroda BNP Paribas Mutual Fund,4,Hybrid,Conservative Hybrid Mutual Funds
+108,Baroda BNP Paribas Corporate Bond Fund,300,5000,0.32,Baroda BNP Paribas Mutual Fund,2,Debt,Corporate Bond Mutual Funds
+109,Baroda BNP Paribas Credit Risk Fund,500,5000,0.78,Baroda BNP Paribas Mutual Fund,5,Debt,Credit Risk Funds
+110,Baroda BNP Paribas Dynamic Bond Fund,300,1000,0.71,Baroda BNP Paribas Mutual Fund,2,Debt,Dynamic Bond
+111,Baroda BNP Paribas ELSS Fund,500,500,1.12,Baroda BNP Paribas Mutual Fund,3,Equity,ELSS Mutual Funds
+112,Baroda BNP Paribas Equity Savings Fund,500,5000,1.45,Baroda BNP Paribas Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+113,Baroda BNP Paribas Focused Fund,300,5000,0.67,Baroda BNP Paribas Mutual Fund,3,Equity,Focused Funds
+114,Baroda BNP Paribas Gilt Fund,500,5000,0.14,Baroda BNP Paribas Mutual Fund,2,Debt,Gilt Mutual Funds
+115,Baroda BNP Paribas India Consumption Fund,300,5000,0.81,Baroda BNP Paribas Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+116,Baroda BNP Paribas Large Cap Fund,300,5000,0.94,Baroda BNP Paribas Mutual Fund,4,Equity,Large Cap Mutual Funds
+117,Baroda BNP Paribas Liquid Fund,500,5000,0.19,Baroda BNP Paribas Mutual Fund,5,Debt,Liquid Mutual Funds
+118,Baroda BNP Paribas Low Duration Fund,300,5000,0.39,Baroda BNP Paribas Mutual Fund,3,Debt,Low Duration Funds
+119,Baroda BNP Paribas Medium Duration Fund,300,5000,0.69,Baroda BNP Paribas Mutual Fund,2,Debt,Medium Duration Funds
+120,Baroda BNP Paribas Mid Cap Fund,300,5000,0.59,Baroda BNP Paribas Mutual Fund,3,Equity,Mid Cap Mutual Funds
+121,Baroda BNP Paribas Money Market Fund,500,5000,0.2,Baroda BNP Paribas Mutual Fund,2,Debt,Money Market Funds
+122,Baroda BNP Paribas Multi Cap Fund,500,5000,1.1,Baroda BNP Paribas Mutual Fund,2,Equity,Multi Cap Funds
+123,Baroda BNP Paribas Overnight Fund,500,5000,0.08,Baroda BNP Paribas Mutual Fund,3,Debt,Overnight Mutual Funds
+124,Baroda BNP Paribas Short Duration Fund,500,5000,0.37,Baroda BNP Paribas Mutual Fund,3,Debt,Short Duration Funds
+125,Baroda BNP Paribas Ultra Short Duration Fund,500,5000,0.22,Baroda BNP Paribas Mutual Fund,3,Debt,Ultra Short Duration Funds
+126,BHARAT Bond FOF – April 2025 – Direct Growth,500,1000,0.06,Edelweiss Mutual Fund,2,Other,FoFs Domestic
+127,Canara Robeco Bluechip Equity Fund,1000,5000,0.48,Canara Robeco Mutual Fund,5,Equity,Large Cap Mutual Funds
+128,Canara Robeco Conservative Hybrid Fund,1000,5000,0.57,Canara Robeco Mutual Fund,5,Hybrid,Conservative Hybrid Mutual Funds
+129,Canara Robeco Consumer Trends Fund,1000,5000,1,Canara Robeco Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+130,Canara Robeco Corporate Bond Fund,1000,5000,0.39,Canara Robeco Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+131,Canara Robeco Dynamic Bond Fund,1000,5000,0.66,Canara Robeco Mutual Fund,3,Debt,Dynamic Bond
+132,Canara Robeco Emerging Equities – Direct Growth,1000,5000,0.6,Canara Robeco Mutual Fund,3,Equity,Large & Mid Cap Funds
+133,Canara Robeco Equity Hybrid Fund,1000,5000,0.63,Canara Robeco Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+134,Canara Robeco Equity Tax Saver Fund,500,500,0.64,Canara Robeco Mutual Fund,5,Equity,ELSS Mutual Funds
+135,Canara Robeco Flexi Cap Fund,1000,5000,0.55,Canara Robeco Mutual Fund,4,Equity,Flexi Cap Funds
+136,Canara Robeco Gilt Fund,1000,5000,0.54,Canara Robeco Mutual Fund,3,Debt,Gilt Mutual Funds
+137,Canara Robeco Income Fund,1000,5000,0.75,Canara Robeco Mutual Fund,3,Debt,Medium to Long Duration Funds
+138,Canara Robeco Infrastructure – Direct Growth,1000,5000,1.32,Canara Robeco Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+139,Canara Robeco Liquid Fund,1000,5000,0.11,Canara Robeco Mutual Fund,2,Debt,Liquid Mutual Funds
+140,Canara Robeco Overnight Fund,0,5000,0.1,Canara Robeco Mutual Fund,2,Debt,Overnight Mutual Funds
+141,Canara Robeco Savings Fund,1000,5000,0.31,Canara Robeco Mutual Fund,2,Debt,Low Duration Funds
+142,Canara Robeco Short Duration Fund,1000,5000,0.47,Canara Robeco Mutual Fund,3,Debt,Short Duration Funds
+143,Canara Robeco Small Cap Fund,1000,5000,0.47,Canara Robeco Mutual Fund,5,Equity,Small Cap Mutual Funds
+144,Canara Robeco Ultra Short Term Fund,500,500,0.4,Canara Robeco Mutual Fund,2,Debt,Ultra Short Duration Funds
+145,DSP Arbitrage Fund,500,500,0.35,DSP Mutual Fund,3,Hybrid,Arbitrage Mutual Funds
+146,DSP Banking & Psu Debt Fund,500,500,0.33,DSP Mutual Fund,3,Debt,Banking and PSU Mutual Funds
+147,DSP Bond Fund,500,500,0.39,DSP Mutual Fund,3,Debt,Medium Duration Funds
+148,DSP Corporate Bond Fund,500,500,0.25,DSP Mutual Fund,2,Debt,Corporate Bond Mutual Funds
+149,DSP Credit Risk Fund,500,500,0.38,DSP Mutual Fund,3,Debt,Credit Risk Funds
+150,DSP Dynamic Asset Allocation Fund,500,500,0.71,DSP Mutual Fund,3,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+151,DSP Equity & Bond Fund,500,500,0.78,DSP Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+152,DSP Equity Opportunities Fund,500,500,0.91,DSP Mutual Fund,3,Equity,Large & Mid Cap Funds
+153,DSP Equity Savings Fund,500,500,0.4,DSP Mutual Fund,2,Hybrid,Equity Savings Mutual Funds
+154,DSP Flexi Cap Fund,500,500,0.76,DSP Mutual Fund,3,Equity,Flexi Cap Funds
+155,DSP Floater Fund,500,500,0.24,DSP Mutual Fund,1,Debt,Floater Mutual Funds
+156,DSP Focus Fund,500,500,1.08,DSP Mutual Fund,2,Equity,Focused Funds
+157,DSP Global Allocation Fund,500,500,1.43,DSP Mutual Fund,0,Other,FoFs Overseas
+158,DSP G-Sec Fund,500,500,0.54,DSP Mutual Fund,4,Debt,Gilt Mutual Funds
+159,DSP Healthcare Fund,500,500,1.04,DSP Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+160,DSP India T.I.G.E.R. Fund,500,500,1.34,DSP Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+161,DSP Liquidity Fund,500,500,0.15,DSP Mutual Fund,3,Debt,Liquid Mutual Funds
+162,DSP Low Duration Fund,500,500,0.3,DSP Mutual Fund,2,Debt,Low Duration Funds
+163,DSP Midcap Fund,500,500,0.77,DSP Mutual Fund,2,Equity,Mid Cap Mutual Funds
+164,DSP Natural Resources & New Energy – Direct Growth,500,500,1.21,DSP Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+165,DSP Nifty 50 Equal Weight Index Fund,500,500,0.4,DSP Mutual Fund,3,Other,Index Funds
+166,DSP Nifty 50 Index Fund,500,500,0.24,DSP Mutual Fund,3,Other,Index Funds
+167,DSP Nifty Next 50 Index Fund,500,500,0.32,DSP Mutual Fund,2,Other,Index Funds
+168,DSP Overnight Fund,500,500,0.06,DSP Mutual Fund,4,Debt,Overnight Mutual Funds
+169,DSP Regular Savings Fund,500,500,0.51,DSP Mutual Fund,2,Hybrid,Conservative Hybrid Mutual Funds
+170,DSP Savings Fund,500,500,0.25,DSP Mutual Fund,2,Debt,Money Market Funds
+171,DSP Short Term Fund,500,500,0.3,DSP Mutual Fund,2,Debt,Short Duration Funds
+172,DSP Small Cap Fund,500,500,0.9,DSP Mutual Fund,2,Equity,Small Cap Mutual Funds
+173,DSP Strategic Bond Fund,500,500,0.47,DSP Mutual Fund,3,Debt,Dynamic Bond
+174,DSP Tax Saver Fund,500,500,0.81,DSP Mutual Fund,4,Equity,ELSS Mutual Funds
+175,DSP Top 100 Equity Fund,500,500,1.27,DSP Mutual Fund,1,Equity,Large Cap Mutual Funds
+176,DSP Ultra Short Fund,500,500,0.3,DSP Mutual Fund,3,Debt,Ultra Short Duration Funds
+177,DSP US Flexible Equity Fund,500,500,1.52,DSP Mutual Fund,0,Other,FoFs Overseas
+178,DSP World Gold Fund,500,500,1.81,DSP Mutual Fund,0,Other,FoFs Overseas
+179,DSP World Mining Fund,500,500,1.5,DSP Mutual Fund,0,Other,FoFs Overseas
+180,Edelweiss Aggressive Hybrid Fund,500,5000,0.36,Edelweiss Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+181,Edelweiss Arbitrage Fund,500,5000,0.37,Edelweiss Mutual Fund,5,Hybrid,Arbitrage Mutual Funds
+182,Edelweiss Balanced Advantage Fund,500,5000,0.51,Edelweiss Mutual Fund,4,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+183,Edelweiss Banking & Psu Debt Fund,500,5000,0.26,Edelweiss Mutual Fund,2,Debt,Banking and PSU Mutual Funds
+184,Edelweiss Equity Savings Fund,500,5000,0.7,Edelweiss Mutual Fund,5,Hybrid,Equity Savings Mutual Funds
+185,Edelweiss Europe Dynamic Equity Offshore – Dir Growth,500,5000,1.5,Edelweiss Mutual Fund,0,Other,FoFs Overseas
+186,Edelweiss Flexi Cap Fund,500,5000,0.56,Edelweiss Mutual Fund,3,Equity,Flexi Cap Funds
+187,Edelweiss Govt Securities Fund,500,5000,0.66,Edelweiss Mutual Fund,5,Debt,Gilt Mutual Funds
+188,Edelweiss Greater China Equity Off-Shore Fund,500,5000,1.44,Edelweiss Mutual Fund,0,Other,FoFs Overseas
+189,Edelweiss Large & Mid Cap Fund,500,5000,0.6,Edelweiss Mutual Fund,4,Equity,Large & Mid Cap Funds
+190,Edelweiss Large Cap Fund,500,5000,0.93,Edelweiss Mutual Fund,4,Equity,Large Cap Mutual Funds
+191,Edelweiss Liquid Fund,500,5000,0.15,Edelweiss Mutual Fund,4,Debt,Liquid Mutual Funds
+192,Edelweiss Long Term Equity Fund,500,500,0.69,Edelweiss Mutual Fund,3,Equity,ELSS Mutual Funds
+193,Edelweiss Mid Cap Fund,500,5000,0.57,Edelweiss Mutual Fund,4,Equity,Mid Cap Mutual Funds
+194,Edelweiss Money Market Fund,500,5000,0.26,Edelweiss Mutual Fund,1,Debt,Money Market Funds
+195,Edelweiss Overnight Fund,500,5000,0.1,Edelweiss Mutual Fund,2,Debt,Overnight Mutual Funds
+196,Edelweiss Recently Listed IPO Fund,500,5000,0.61,Edelweiss Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+197,Edelweiss Small Cap Fund,500,5000,0.6,Edelweiss Mutual Fund,4,Equity,Small Cap Mutual Funds
+198,Edelweiss US Value Equity Offshore Fund,500,5000,1.43,Edelweiss Mutual Fund,0,Other,FoFs Overseas
+199,Franklin Build India Fund,500,5000,1.3,Franklin Templeton Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+200,Franklin India Banking & PSU Debt Fund,500,5000,0.16,Franklin Templeton Mutual Fund,2,Debt,Banking and PSU Mutual Funds
+201,Franklin India Bluechip Fund,500,5000,1.01,Franklin Templeton Mutual Fund,2,Equity,Large Cap Mutual Funds
+202,Franklin India Corporate Debt Fund,500,10000,0.21,Franklin Templeton Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+203,Franklin India Debt Hybrid Fund,500,10000,0.57,Franklin Templeton Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+204,Franklin India Dynamic Asset Allocation FoFs-Dir-G,500,5000,0.46,Franklin Templeton Mutual Fund,3,Other,FoFs Domestic
+205,Franklin India Equity Advantage Fund,500,5000,1.37,Franklin Templeton Mutual Fund,2,Equity,Large & Mid Cap Funds
+206,Franklin India Equity Hybrid Fund,500,5000,1.2,Franklin Templeton Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+207,Franklin India Equity Savings Fund,500,5000,0.71,Franklin Templeton Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+208,Franklin India Feeder – Franklin U.S. Opp.-Dir Growth,500,5000,0.72,Franklin Templeton Mutual Fund,0,Other,FoFs Overseas
+209,Franklin India Flexi Cap Fund,500,5000,1.1,Franklin Templeton Mutual Fund,4,Equity,Flexi Cap Funds
+210,Franklin India Floating Rate Fund,500,1000,0.21,Franklin Templeton Mutual Fund,4,Debt,Floater Mutual Funds
+211,Franklin India Focused Equity Fund,500,5000,1.16,Franklin Templeton Mutual Fund,4,Equity,Focused Funds
+212,Franklin India G-Sec Fund,500,10000,0.57,Franklin Templeton Mutual Fund,2,Debt,Gilt Mutual Funds
+213,Franklin India Liquid Fund,500,10000,0.13,Franklin Templeton Mutual Fund,3,Debt,Liquid Mutual Funds
+214,Franklin India Multi-Asset Solution Fund,500,5000,0.44,Franklin Templeton Mutual Fund,1,Other,FoFs Domestic
+215,Franklin India NSE Nifty 50 Index Fund,500,5000,0.24,Franklin Templeton Mutual Fund,3,Other,Index Funds
+216,Franklin India Opportunities Fund,500,5000,1.79,Franklin Templeton Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+217,Franklin India Overnight Fund,500,5000,0.1,Franklin Templeton Mutual Fund,2,Debt,Overnight Mutual Funds
+218,Franklin India Prima Fund,500,5000,1.06,Franklin Templeton Mutual Fund,2,Equity,Mid Cap Mutual Funds
+219,Franklin India Savings Fund,500,10000,0.1,Franklin Templeton Mutual Fund,3,Debt,Money Market Funds
+220,Franklin India Smaller Companies Fund,500,5000,1.03,Franklin Templeton Mutual Fund,2,Equity,Small Cap Mutual Funds
+221,Franklin India Taxshield – Direct Growth,500,500,1.12,Franklin Templeton Mutual Fund,3,Equity,ELSS Mutual Funds
+222,Franklin India Technology Fund,500,5000,1.22,Franklin Templeton Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+223,HDFC Arbitrage Fund,100,100,0.43,HDFC Mutual Fund,2,Hybrid,Arbitrage Mutual Funds
+224,HDFC Balanced Advantage Fund,100,100,0.88,HDFC Mutual Fund,4,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+225,HDFC Banking and PSU Debt Fund,100,100,0.39,HDFC Mutual Fund,4,Debt,Banking and PSU Mutual Funds
+226,HDFC Capital Builder Value Fund,100,100,1.04,HDFC Mutual Fund,2,Equity,Value Funds
+227,HDFC Children’s Gift Fund,100,100,0.96,HDFC Mutual Fund,0,Solution Oriented,Childrens Funds
+228,HDFC Corporate Bond Fund,100,100,0.32,HDFC Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+229,HDFC Credit Risk Debt Fund,100,100,0.95,HDFC Mutual Fund,3,Debt,Credit Risk Funds
+230,HDFC Dynamic Debt Fund,100,100,0.49,HDFC Mutual Fund,4,Debt,Dynamic Bond
+231,HDFC Dynamic PE Ratio Fund,100,100,0.22,HDFC Mutual Fund,4,Other,FoFs Domestic
+232,HDFC Equity Savings Fund,100,100,1.1,HDFC Mutual Fund,4,Hybrid,Equity Savings Mutual Funds
+233,HDFC Flexi Cap Fund,100,100,1,HDFC Mutual Fund,4,Equity,Flexi Cap Funds
+234,HDFC Floating Rate Debt Fund,100,100,0.26,HDFC Mutual Fund,4,Debt,Floater Mutual Funds
+235,HDFC Focused 30 Fund,100,100,0.54,HDFC Mutual Fund,3,Equity,Focused Funds
+236,HDFC Gilt Fund,100,100,0.46,HDFC Mutual Fund,2,Debt,Gilt Mutual Funds
+237,HDFC Gold Fund,100,100,0.18,HDFC Mutual Fund,5,Other,FoFs Domestic
+238,HDFC Housing Opportunities Fund,100,100,1.28,HDFC Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+239,HDFC Hybrid Debt Fund,100,100,1.33,HDFC Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+240,HDFC Hybrid Equity Fund,100,100,1.09,HDFC Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+241,HDFC Income Fund,100,100,0.51,HDFC Mutual Fund,3,Debt,Medium to Long Duration Funds
+242,HDFC Index Fund,100,100,0.2,HDFC Mutual Fund,4,Other,Index Funds
+243,HDFC Index Fund,100,100,0.2,HDFC Mutual Fund,3,Other,Index Funds
+244,HDFC Infrastructure Fund,100,100,1.75,HDFC Mutual Fund,1,Equity,Sectoral / Thematic Mutual Funds
+245,HDFC Large and Mid Cap Fund,100,100,1.03,HDFC Mutual Fund,3,Equity,Large & Mid Cap Funds
+246,HDFC Liquid Fund,300,5000,0.2,HDFC Mutual Fund,2,Debt,Liquid Mutual Funds
+247,HDFC Low Duration Fund,100,100,0.43,HDFC Mutual Fund,4,Debt,Low Duration Funds
+248,HDFC Medium Term Debt Fund,100,100,0.58,HDFC Mutual Fund,3,Debt,Medium Duration Funds
+249,HDFC Mid-Cap Opportunities Fund,100,100,0.95,HDFC Mutual Fund,3,Equity,Mid Cap Mutual Funds
+250,HDFC Money Market Fund,100,100,0.21,HDFC Mutual Fund,3,Debt,Money Market Funds
+251,HDFC Multi-Asset Fund,100,100,0.88,HDFC Mutual Fund,4,Hybrid,Multi Asset Allocation Mutual Funds
+252,HDFC Overnight Fund,300,100,0.1,HDFC Mutual Fund,2,Debt,Overnight Mutual Funds
+253,HDFC Retirement Savings Fund,100,100,0.78,HDFC Mutual Fund,5,Solution Oriented,Retirement Funds
+254,HDFC Retirement Savings Fund,100,100,1.03,HDFC Mutual Fund,4,Solution Oriented,Retirement Funds
+255,HDFC Retirement Savings Fund,100,100,1,HDFC Mutual Fund,4,Solution Oriented,Retirement Funds
+256,HDFC Short Term Debt Fund,100,100,0.29,HDFC Mutual Fund,3,Debt,Short Duration Funds
+257,HDFC Small Cap Fund,100,100,0.8,HDFC Mutual Fund,3,Equity,Small Cap Mutual Funds
+258,HDFC Tax Saver Fund,500,500,1.15,HDFC Mutual Fund,2,Equity,ELSS Mutual Funds
+259,HDFC Top 100 Fund,100,100,1.11,HDFC Mutual Fund,2,Equity,Large Cap Mutual Funds
+260,HDFC Ultra Short Term Fund,100,100,0.34,HDFC Mutual Fund,4,Debt,Ultra Short Duration Funds
+261,HSBC Aggressive Hybrid Fund,500,5000,0.87,HSBC Mutual Fund,2,Hybrid,Aggressive Hybrid Mutual Funds
+262,HSBC Arbitrage Fund,500,5000,0.29,HSBC Mutual Fund,4,Hybrid,Arbitrage Mutual Funds
+263,HSBC Asia Pacific (Ex Japan) DYF – Direct Growth,500,5000,1.29,HSBC Mutual Fund,0,Other,FoFs Overseas
+264,HSBC Balanced Advantage Fund,500,5000,0.78,HSBC Mutual Fund,3,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+265,HSBC Banking and PSU Debt Fund,500,5000,0.23,HSBC Mutual Fund,1,Debt,Banking and PSU Mutual Funds
+266,HSBC Business Cycles Fund,500,5000,1.42,HSBC Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+267,HSBC Conservative Hybrid Fund,500,5000,1.34,HSBC Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+268,HSBC Corporate Bond Fund,500,5000,0.35,HSBC Mutual Fund,2,Debt,Corporate Bond Mutual Funds
+269,HSBC Corporate Bond Fund,500,5000,0.29,HSBC Mutual Fund,1,Debt,Corporate Bond Mutual Funds
+270,HSBC Credit Risk Fund,500,5000,0.85,HSBC Mutual Fund,3,Debt,Credit Risk Funds
+271,HSBC Dynamic Bond Fund,500,5000,0.29,HSBC Mutual Fund,3,Debt,Dynamic Bond
+272,HSBC ELSS Fund,500,500,1.16,HSBC Mutual Fund,1,Equity,ELSS Mutual Funds
+273,HSBC Equity Hybrid Fund,500,5000,1,HSBC Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+274,HSBC Equity Savings Fund,500,5000,0.62,HSBC Mutual Fund,2,Hybrid,Equity Savings Mutual Funds
+275,HSBC Flexi Cap Fund,500,5000,1.23,HSBC Mutual Fund,2,Equity,Flexi Cap Funds
+276,HSBC Flexi Debt Fund,500,5000,0.94,HSBC Mutual Fund,2,Debt,Dynamic Bond
+277,HSBC Gilt Fund,500,5000,0.48,HSBC Mutual Fund,3,Debt,Gilt Mutual Funds
+278,HSBC Infrastructure Fund,500,5000,1.14,HSBC Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+279,HSBC Large & Mid Cap Fund,500,5000,1.08,HSBC Mutual Fund,2,Equity,Large & Mid Cap Funds
+280,HSBC Large Cap Fund,500,5000,1.26,HSBC Mutual Fund,2,Equity,Large Cap Mutual Funds
+281,HSBC Liquid Fund,500,5000,0.12,HSBC Mutual Fund,3,Debt,Liquid Mutual Funds
+282,HSBC Low Duration Fund,500,5000,0.25,HSBC Mutual Fund,3,Debt,Low Duration Funds
+283,HSBC Managed Solutions Conservative Fund,500,5000,0.54,HSBC Mutual Fund,2,Other,FoFs Domestic
+284,HSBC Managed Solutions Growth Fund,500,5000,1.06,HSBC Mutual Fund,2,Other,FoFs Domestic
+285,HSBC Managed Solutions Moderate Fund,500,5000,0.76,HSBC Mutual Fund,2,Other,FoFs Domestic
+286,HSBC Medium Duration Fund,500,5000,0.4,HSBC Mutual Fund,3,Debt,Medium Duration Funds
+287,HSBC Medium to Long Duration Fund,500,5000,0.68,HSBC Mutual Fund,1,Debt,Medium to Long Duration Funds
+288,HSBC Midcap Fund,500,5000,0.74,HSBC Mutual Fund,2,Equity,Mid Cap Mutual Funds
+289,HSBC Money Market Fund,500,5000,0.25,HSBC Mutual Fund,1,Debt,Money Market Funds
+290,HSBC Overnight Fund,500,5000,0.1,HSBC Mutual Fund,5,Debt,Overnight Mutual Funds
+291,HSBC Short Duration Fund,500,5000,0.27,HSBC Mutual Fund,2,Debt,Short Duration Funds
+292,HSBC Small Cap Fund,500,5000,0.77,HSBC Mutual Fund,3,Equity,Small Cap Mutual Funds
+293,HSBC Tax Saver Equity Fund,500,5000,1.3,HSBC Mutual Fund,2,Equity,ELSS Mutual Funds
+294,HSBC Ultra Short Duration Fund,500,5000,0.22,HSBC Mutual Fund,3,Debt,Ultra Short Duration Funds
+295,HSBC Value Fund,500,5000,0.84,HSBC Mutual Fund,3,Equity,Value Funds
+296,ICICI Pru All Seasons Bond Fund,100,5000,0.62,ICICI Prudential Mutual Fund,5,Debt,Dynamic Bond
+297,ICICI Pru Asset Allocator Fund,1000,5000,0.18,ICICI Prudential Mutual Fund,4,Other,FoFs Domestic
+298,ICICI Pru Balanced Advantage Fund,100,500,0.91,ICICI Prudential Mutual Fund,4,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+299,ICICI Pru Banking & Financial Services – DirectGrowth,100,5000,1.1,ICICI Prudential Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+300,ICICI Pru Banking & PSU Debt Fund,100,500,0.38,ICICI Prudential Mutual Fund,5,Debt,Banking and PSU Mutual Funds
+301,ICICI Pru BHARAT 22 FOF  – Direct Growth,1000,5000,0.08,ICICI Prudential Mutual Fund,5,Other,FoFs Domestic
+302,ICICI Pru Bharat Consumption Fund,100,5000,1.54,ICICI Prudential Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+303,ICICI Pru Bluechip Fund,100,100,1.06,ICICI Prudential Mutual Fund,4,Equity,Large Cap Mutual Funds
+304,ICICI Pru Bond Fund,100,5000,0.6,ICICI Prudential Mutual Fund,3,Debt,Medium to Long Duration Funds
+305,ICICI Pru Child Care Fund,100,5000,1.69,ICICI Prudential Mutual Fund,3,Solution Oriented,Childrens Funds
+306,ICICI Pru Corporate Bond Fund,100,100,0.3,ICICI Prudential Mutual Fund,5,Debt,Corporate Bond Mutual Funds
+307,ICICI Pru Credit Risk Fund,100,100,0.86,ICICI Prudential Mutual Fund,4,Debt,Credit Risk Funds
+308,ICICI Pru Debt Management Fund,100,100,0.41,ICICI Prudential Mutual Fund,4,Other,FoFs Domestic
+309,ICICI Pru Dividend Yield Equity Fund,100,5000,0.66,ICICI Prudential Mutual Fund,0,Equity,Dividend Yield Funds
+310,ICICI Pru Equity & Debt Fund,100,5000,1.2,ICICI Prudential Mutual Fund,5,Hybrid,Aggressive Hybrid Mutual Funds
+311,ICICI Pru Equity – Arbitrage Fund,1000,5000,0.39,ICICI Prudential Mutual Fund,3,Hybrid,Arbitrage Mutual Funds
+312,ICICI Pru Equity Savings Fund,100,5000,0.54,ICICI Prudential Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+313,ICICI Pru Exports and Services Fund,1000,5000,1.76,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+314,ICICI Pru Floating Interest Fund,100,500,0.62,ICICI Prudential Mutual Fund,2,Debt,Floater Mutual Funds
+315,ICICI Pru FMCG Fund,100,5000,1.44,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+316,ICICI Pru Focused Equity Fund,100,5000,0.59,ICICI Prudential Mutual Fund,4,Equity,Focused Funds
+317,ICICI Pru Gilt Fund,1000,5000,0.56,ICICI Prudential Mutual Fund,5,Debt,Gilt Mutual Funds
+318,ICICI Pru Global Stable Equity Fund,1000,5000,1.26,ICICI Prudential Mutual Fund,0,Other,FoFs Overseas
+319,ICICI Pru Income Optimizer Fund,1000,5000,0.26,ICICI Prudential Mutual Fund,5,Other,FoFs Domestic
+320,ICICI Pru India Equity FOF – Direct Growth,100,500,0.88,ICICI Prudential Mutual Fund,5,Other,FoFs Domestic
+321,ICICI Pru India Opportunities Fund,100,5000,0.73,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+322,ICICI Pru Infrastructure Fund,100,5000,1.64,ICICI Prudential Mutual Fund,5,Equity,Sectoral / Thematic Mutual Funds
+323,ICICI Pru Large & Mid Cap Fund,100,5000,1.09,ICICI Prudential Mutual Fund,4,Equity,Large & Mid Cap Funds
+324,ICICI Pru Liquid Fund,99,99,0.2,ICICI Prudential Mutual Fund,2,Debt,Liquid Mutual Funds
+325,ICICI Pru Long Term Equity Fund,500,500,1.23,ICICI Prudential Mutual Fund,3,Equity,ELSS Mutual Funds
+326,ICICI Pru Long Term Wealth Enhancement Fund,0,500,0.97,ICICI Prudential Mutual Fund,0,Equity,ELSS Mutual Funds
+327,ICICI Pru Manufacturing Fund,100,5000,1.7,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+328,ICICI Pru Medium Term Bond Fund,1000,5000,0.77,ICICI Prudential Mutual Fund,4,Debt,Medium Duration Funds
+329,ICICI Pru MidCap Fund,100,5000,1.16,ICICI Prudential Mutual Fund,3,Equity,Mid Cap Mutual Funds
+330,ICICI Pru Money Market Fund,100,500,0.21,ICICI Prudential Mutual Fund,3,Debt,Money Market Funds
+331,ICICI Pru Multi-Asset Fund,100,5000,1.15,ICICI Prudential Mutual Fund,4,Hybrid,Multi Asset Allocation Mutual Funds
+332,ICICI Pru Multicap Fund,100,5000,1.02,ICICI Prudential Mutual Fund,0,Equity,Multi Cap Funds
+333,ICICI Pru Nifty 50 Index Fund,100,100,0.17,ICICI Prudential Mutual Fund,3,Other,Index Funds
+334,ICICI Pru Nifty Next 50 Index Fund,100,100,0.3,ICICI Prudential Mutual Fund,1,Other,Index Funds
+335,ICICI Pru Overnight Fund,500,100,0.1,ICICI Prudential Mutual Fund,3,Debt,Overnight Mutual Funds
+336,ICICI Pru P.H.D Fund,100,5000,1.22,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+337,ICICI Pru Passive Strategy Fund,1000,5000,0.06,ICICI Prudential Mutual Fund,3,Other,FoFs Domestic
+338,ICICI Pru Regular Gold Savings Fund,100,100,0.09,ICICI Prudential Mutual Fund,3,Other,FoFs Domestic
+339,ICICI Pru Regular Savings Fund,100,5000,0.99,ICICI Prudential Mutual Fund,5,Hybrid,Conservative Hybrid Mutual Funds
+340,ICICI Pru Retirement Fund,100,5000,1.22,ICICI Prudential Mutual Fund,5,Solution Oriented,Retirement Funds
+341,ICICI Pru Retirement Fund,100,5000,1.12,ICICI Prudential Mutual Fund,3,Solution Oriented,Retirement Funds
+342,ICICI Pru Retirement Fund,100,5000,1,ICICI Prudential Mutual Fund,3,Solution Oriented,Retirement Funds
+343,ICICI Pru Retirement Fund,100,5000,1.29,ICICI Prudential Mutual Fund,3,Solution Oriented,Retirement Funds
+344,ICICI Pru S&P BSE Sensex Index Fund,100,100,0.16,ICICI Prudential Mutual Fund,4,Other,Index Funds
+345,ICICI Pru Savings Fund,100,100,0.4,ICICI Prudential Mutual Fund,2,Debt,Low Duration Funds
+346,ICICI Pru Short Term Fund,1000,5000,0.39,ICICI Prudential Mutual Fund,4,Debt,Short Duration Funds
+347,ICICI Pru Smallcap Fund,100,5000,0.81,ICICI Prudential Mutual Fund,3,Equity,Small Cap Mutual Funds
+348,ICICI Pru Technology Fund,100,5000,0.99,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+349,ICICI Pru Thematic Advantage Fund,1000,5000,0.25,ICICI Prudential Mutual Fund,0,Other,FoFs Domestic
+350,ICICI Pru Ultra Short Term Fund,1000,5000,0.39,ICICI Prudential Mutual Fund,4,Debt,Ultra Short Duration Funds
+351,ICICI Pru US Bluechip Equity Fund,100,5000,1.22,ICICI Prudential Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+352,ICICI Pru Value Discovery Fund,100,1000,1.22,ICICI Prudential Mutual Fund,4,Equity,Value Funds
+353,IDBI Banking & Financial Services Fund,500,5000,1.5,IDBI Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+354,IDBI Credit Risk Fund,500,5000,0.61,IDBI Mutual Fund,3,Debt,Credit Risk Funds
+355,IDBI Dividend Yield Fund,500,5000,1.5,IDBI Mutual Fund,0,Equity,Dividend Yield Funds
+356,IDBI Equity Advantage Fund,500,500,1.21,IDBI Mutual Fund,2,Equity,ELSS Mutual Funds
+357,IDBI Equity Savings Fund,500,5000,1.15,IDBI Mutual Fund,2,Hybrid,Equity Savings Mutual Funds
+358,IDBI Focused 30 Equity Fund,500,5000,1.61,IDBI Mutual Fund,3,Equity,Focused Funds
+359,IDBI Gold Fund,500,5000,0.26,IDBI Mutual Fund,3,Other,FoFs Domestic
+360,IDBI Healthcare Fund,500,5000,1.24,IDBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+361,IDBI Hybrid Equity Fund,500,5000,1.67,IDBI Mutual Fund,2,Hybrid,Aggressive Hybrid Mutual Funds
+362,IDBI India Top 100 Equity Fund,500,5000,1.26,IDBI Mutual Fund,4,Equity,Large Cap Mutual Funds
+363,IDBI Liquid Fund,500,5000,0.13,IDBI Mutual Fund,4,Debt,Liquid Mutual Funds
+364,IDBI Long Term Value Fund,500,5000,1.67,IDBI Mutual Fund,2,Equity,Value Funds
+365,IDBI Midcap Fund,500,5000,1.62,IDBI Mutual Fund,1,Equity,Mid Cap Mutual Funds
+366,IDBI Nifty 50 Index Fund,500,5000,0.32,IDBI Mutual Fund,3,Other,Index Funds
+367,IDBI Nifty Next 50 Index Fund,500,5000,0.32,IDBI Mutual Fund,1,Other,Index Funds
+368,IDBI Short Term Bond Fund,500,5000,0.28,IDBI Mutual Fund,4,Debt,Short Duration Funds
+369,IDBI Small Cap Fund,500,5000,1.54,IDBI Mutual Fund,3,Equity,Small Cap Mutual Funds
+370,IDBI Ultra Short Term Fund,500,5000,0.25,IDBI Mutual Fund,3,Debt,Ultra Short Duration Funds
+371,IIFL Dynamic Bond Fund,1000,10000,0.27,IIFL Mutual Fund,4,Debt,Dynamic Bond
+372,IIFL Focused Equity Fund,1000,1000,0.9,IIFL Mutual Fund,5,Equity,Focused Funds
+373,IIFL Liquid Fund,1000,5000,0.2,IIFL Mutual Fund,2,Debt,Liquid Mutual Funds
+374,Indiabulls Arbitrage Fund,1000,500,0.58,Indiabulls Mutual Fund,2,Hybrid,Arbitrage Mutual Funds
+375,Indiabulls Bluechip Fund,500,500,1.27,Indiabulls Mutual Fund,2,Equity,Large Cap Mutual Funds
+376,Indiabulls Dynamic Bond Fund,500,500,0.36,Indiabulls Mutual Fund,3,Debt,Dynamic Bond
+377,Indiabulls Equity Hybrid Fund,500,500,1.55,Indiabulls Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+378,Indiabulls Liquid Fund,500,500,0.22,Indiabulls Mutual Fund,1,Debt,Liquid Mutual Funds
+379,Indiabulls Overnight Fund,500,500,0.18,Indiabulls Mutual Fund,1,Debt,Overnight Mutual Funds
+380,Indiabulls Short Term Fund,500,500,0.38,Indiabulls Mutual Fund,2,Debt,Short Duration Funds
+381,Indiabulls Tax Savings Fund,500,500,0.5,Indiabulls Mutual Fund,2,Equity,ELSS Mutual Funds
+382,Indiabulls Value Fund,500,500,0.5,Indiabulls Mutual Fund,2,Equity,Value Funds
+383,Invesco India – Invesco GEI Fund,500,1000,0.73,Invesco Mutual Fund,0,Other,FoFs Overseas
+384,Invesco India Arbitrage Fund,500,1000,0.38,Invesco Mutual Fund,5,Hybrid,Arbitrage Mutual Funds
+385,Invesco India Banking & PSU Debt Fund,1000,1000,0.28,Invesco Mutual Fund,1,Debt,Banking and PSU Mutual Funds
+386,Invesco India Contra Fund,500,1000,0.62,Invesco Mutual Fund,4,Equity,Contra Funds
+387,Invesco India Corporate Bond Fund,100,1000,0.28,Invesco Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+388,Invesco India Credit Risk Fund,1000,1000,0.28,Invesco Mutual Fund,2,Debt,Credit Risk Funds
+389,Invesco India Dynamic Equity Fund,500,1000,0.95,Invesco Mutual Fund,2,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+390,Invesco India Equity & Bond Fund,500,1000,0.76,Invesco Mutual Fund,2,Hybrid,Aggressive Hybrid Mutual Funds
+391,Invesco India Equity Savings Fund,500,1000,0.73,Invesco Mutual Fund,2,Hybrid,Equity Savings Mutual Funds
+392,Invesco India Financial Services Fund,100,1000,1.08,Invesco Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+393,Invesco India Gilt Fund,100,1000,0.48,Invesco Mutual Fund,1,Debt,Gilt Mutual Funds
+394,Invesco India Gold Fund,500,1000,0.16,Invesco Mutual Fund,4,Other,FoFs Domestic
+395,Invesco India Growth Opportunities Fund,100,1000,0.66,Invesco Mutual Fund,3,Equity,Large & Mid Cap Funds
+396,Invesco India Infrastructure Fund,500,1000,1.08,Invesco Mutual Fund,5,Equity,Sectoral / Thematic Mutual Funds
+397,Invesco India Largecap Fund,100,1000,0.81,Invesco Mutual Fund,4,Equity,Large Cap Mutual Funds
+398,Invesco India Liquid Fund,500,1000,0.15,Invesco Mutual Fund,3,Debt,Liquid Mutual Funds
+399,Invesco India Medium Duration Fund,1000,1000,0.4,Invesco Mutual Fund,2,Debt,Medium Duration Funds
+400,Invesco India Midcap Fund,500,1000,0.72,Invesco Mutual Fund,3,Equity,Mid Cap Mutual Funds
+401,Invesco India Money Market Fund,1000,1000,0.22,Invesco Mutual Fund,2,Debt,Money Market Funds
+402,Invesco India Multicap Fund,500,1000,0.65,Invesco Mutual Fund,0,Equity,Multi Cap Funds
+403,Invesco India Overnight Fund,100,1000,0.09,Invesco Mutual Fund,3,Debt,Overnight Mutual Funds
+404,Invesco India PSU Equity Fund,500,1000,0.96,Invesco Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+405,Invesco India Short Term Fund,1000,1000,0.35,Invesco Mutual Fund,2,Debt,Short Duration Funds
+406,Invesco India Smallcap Fund,500,1000,0.78,Invesco Mutual Fund,3,Equity,Small Cap Mutual Funds
+407,Invesco India Tax Plan – Direct Growth,500,500,0.92,Invesco Mutual Fund,3,Equity,ELSS Mutual Funds
+408,Invesco India Treasury Advantage Fund,100,1000,0.32,Invesco Mutual Fund,2,Debt,Low Duration Funds
+409,Invesco India Ultra Short Term Fund,1000,1000,0.24,Invesco Mutual Fund,3,Debt,Ultra Short Duration Funds
+410,ITI Arbitrage Fund,500,5000,0.22,ITI Mutual Fund,1,Hybrid,Arbitrage Mutual Funds
+411,ITI Balanced Advantage Fund,500,5000,0.35,ITI Mutual Fund,1,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+412,ITI Banking & PSU Debt Fund,500,5000,0.15,ITI Mutual Fund,5,Debt,Banking and PSU Mutual Funds
+413,ITI Dynamic Bond Fund,500,5000,0.14,ITI Mutual Fund,5,Debt,Dynamic Bond
+414,ITI Liquid Fund,500,5000,0.09,ITI Mutual Fund,2,Debt,Liquid Mutual Funds
+415,ITI Long Term Equity Fund,500,500,0.44,ITI Mutual Fund,2,Equity,ELSS Mutual Funds
+416,ITI Overnight Fund,500,5000,0.08,ITI Mutual Fund,1,Debt,Overnight Mutual Funds
+417,ITI Small Cap Fund,500,5000,0.44,ITI Mutual Fund,1,Equity,Small Cap Mutual Funds
+418,ITI Ultra Short Duration Fund,500,5000,0.1,ITI Mutual Fund,2,Debt,Ultra Short Duration Funds
+419,JM Arbitrage Fund,500,5000,0.36,JM Financial Mutual Fund,1,Hybrid,Arbitrage Mutual Funds
+420,JM Dynamic Bond Fund,1000,5000,0.63,JM Financial Mutual Fund,4,Debt,Dynamic Bond
+421,JM Equity Hybrid Fund,500,5000,1.37,JM Financial Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+422,JM Flexicap Fund,500,5000,1.62,JM Financial Mutual Fund,4,Equity,Flexi Cap Funds
+423,JM Focused Fund,500,5000,1.58,JM Financial Mutual Fund,1,Equity,Focused Funds
+424,JM Large Cap Fund,500,5000,1.8,JM Financial Mutual Fund,5,Equity,Large Cap Mutual Funds
+425,JM Liquid Fund,1000,5000,0.15,JM Financial Mutual Fund,4,Debt,Liquid Mutual Funds
+426,JM Low Duration Fund,1000,5000,0.34,JM Financial Mutual Fund,4,Debt,Low Duration Funds
+427,JM Medium to Long Duration Fund,1000,5000,0.48,JM Financial Mutual Fund,2,Debt,Medium to Long Duration Funds
+428,JM Tax Gain Fund,500,500,1.45,JM Financial Mutual Fund,3,Equity,ELSS Mutual Funds
+429,JM Value Fund,500,5000,1.87,JM Financial Mutual Fund,2,Equity,Value Funds
+430,Kotak Balanced Advantage Fund,1000,1000,0.48,Kotak Mahindra Mutual Fund,3,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+431,Kotak Banking and PSU Debt Fund,1000,5000,0.37,Kotak Mahindra Mutual Fund,3,Debt,Banking and PSU Mutual Funds
+432,Kotak Bluechip Fund,100,1000,0.64,Kotak Mahindra Mutual Fund,5,Equity,Large Cap Mutual Funds
+433,Kotak Bond – Short Term Fund,1000,5000,0.36,Kotak Mahindra Mutual Fund,3,Debt,Short Duration Funds
+434,Kotak Bond Fund,1000,5000,0.63,Kotak Mahindra Mutual Fund,3,Debt,Medium to Long Duration Funds
+435,Kotak Corporate Bond Fund,1000,5000,0.32,Kotak Mahindra Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+436,Kotak Credit Risk Fund,1000,5000,0.74,Kotak Mahindra Mutual Fund,2,Debt,Credit Risk Funds
+437,Kotak Debt Hybrid Fund,1000,5000,0.44,Kotak Mahindra Mutual Fund,5,Hybrid,Conservative Hybrid Mutual Funds
+438,Kotak Dynamic Bond Fund,1000,5000,0.4,Kotak Mahindra Mutual Fund,4,Debt,Dynamic Bond
+439,Kotak Emerging Equity Fund,100,100,0.49,Kotak Mahindra Mutual Fund,4,Equity,Mid Cap Mutual Funds
+440,Kotak Equity Arbitrage Fund,1000,5000,0.43,Kotak Mahindra Mutual Fund,4,Hybrid,Arbitrage Mutual Funds
+441,Kotak Equity Hybrid Fund,1000,5000,0.58,Kotak Mahindra Mutual Fund,0,Hybrid,Aggressive Hybrid Mutual Funds
+442,Kotak Equity Opportunities – Direct Growth,500,500,0.6,Kotak Mahindra Mutual Fund,4,Equity,Large & Mid Cap Funds
+443,Kotak Equity Savings Fund,1000,5000,1.02,Kotak Mahindra Mutual Fund,4,Hybrid,Equity Savings Mutual Funds
+444,Kotak Flexi Cap Fund,500,5000,0.68,Kotak Mahindra Mutual Fund,3,Equity,Flexi Cap Funds
+445,Kotak Floating Rate Fund,1000,5000,0.22,Kotak Mahindra Mutual Fund,2,Debt,Floater Mutual Funds
+446,Kotak Focused Equity Fund,1000,5000,0.51,Kotak Mahindra Mutual Fund,3,Equity,Focused Funds
+447,Kotak Gilt – Invest Plan – Direct Growth,1000,5000,0.41,Kotak Mahindra Mutual Fund,4,Debt,Gilt Mutual Funds
+448,Kotak Gilt Invest – PF & Trust Plan – Direct Growth,1000,5000,0.41,Kotak Mahindra Mutual Fund,4,Debt,Gilt Mutual Funds
+449,Kotak Gold Fund,1000,5000,0.18,Kotak Mahindra Mutual Fund,3,Other,FoFs Domestic
+450,Kotak India EQ Contra Fund,1000,5000,0.81,Kotak Mahindra Mutual Fund,4,Equity,Contra Funds
+451,Kotak India Growth Fund,0,5000,0.34,Kotak Mahindra Mutual Fund,0,Equity,Multi Cap Funds
+452,Kotak Infrastructure & Ecoc. Reform-SP-DirGrowth,1000,5000,1,Kotak Mahindra Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+453,Kotak Liquid Fund,1000,100,0.15,Kotak Mahindra Mutual Fund,2,Debt,Liquid Mutual Funds
+454,Kotak Low Duration Fund,1000,5000,0.43,Kotak Mahindra Mutual Fund,3,Debt,Low Duration Funds
+455,Kotak Medium Term Fund,1000,5000,0.58,Kotak Mahindra Mutual Fund,4,Debt,Medium Duration Funds
+456,Kotak Money Market Fund,0,5000,0.26,Kotak Mahindra Mutual Fund,3,Debt,Money Market Funds
+457,Kotak Multi Asset Allocator FoF – Dynamic – Direct Growth,1000,5000,0.13,Kotak Mahindra Mutual Fund,0,Other,FoFs Domestic
+458,Kotak Overnight Fund,0,5000,0.07,Kotak Mahindra Mutual Fund,3,Debt,Overnight Mutual Funds
+459,Kotak Savings Fund,1000,5000,0.37,Kotak Mahindra Mutual Fund,3,Debt,Ultra Short Duration Funds
+460,Kotak Small Cap Fund,500,500,0.59,Kotak Mahindra Mutual Fund,4,Equity,Small Cap Mutual Funds
+461,Kotak Tax Saver Fund,500,500,0.69,Kotak Mahindra Mutual Fund,4,Equity,ELSS Mutual Funds
+462,L&T Focused Equity Fund,500,5000,1.09,L&T Mutual Fund,3,Equity,Focused Funds
+463,L&T India Large Cap Fund,500,5000,1.49,L&T Mutual Fund,2,Equity,Large Cap Mutual Funds
+464,LIC MF Arbitrage Fund,1000,5000,0.31,LIC Mutual Fund,2,Hybrid,Arbitrage Mutual Funds
+465,LIC MF Banking & Fina Serv Fund,1000,5000,1.54,LIC Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+466,LIC MF Banking & PSU Debt Fund,1000,5000,0.28,LIC Mutual Fund,3,Debt,Banking and PSU Mutual Funds
+467,LIC MF Bond Fund,1000,5000,0.21,LIC Mutual Fund,2,Debt,Medium to Long Duration Funds
+468,LIC MF Children’s Gift Fund,1000,5000,1.86,LIC Mutual Fund,1,Solution Oriented,Childrens Funds
+469,LIC MF Debt Hybrid Fund,1000,5000,1.34,LIC Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+470,LIC MF Equity Hybrid Fund,1000,5000,1.43,LIC Mutual Fund,1,Hybrid,Aggressive Hybrid Mutual Funds
+471,LIC MF Flexi Cap Fund,1000,5000,1.74,LIC Mutual Fund,2,Equity,Flexi Cap Funds
+472,LIC MF G-Sec Fund,1000,10000,0.76,LIC Mutual Fund,3,Debt,Gilt Mutual Funds
+473,LIC MF Infrastructure Fund,1000,5000,1.47,LIC Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+474,LIC MF Large & Mid Cap Fund,1000,5000,0.84,LIC Mutual Fund,3,Equity,Large & Mid Cap Funds
+475,LIC MF Large Cap Fund,1000,5000,1.39,LIC Mutual Fund,2,Equity,Large Cap Mutual Funds
+476,LIC MF Liquid Fund,1000,5000,0.16,LIC Mutual Fund,3,Debt,Liquid Mutual Funds
+477,LIC MF Nifty 50 Index Fund,1000,5000,0.2,LIC Mutual Fund,3,Other,Index Funds
+478,LIC MF Overnight Fund,1000,5000,0.07,LIC Mutual Fund,4,Debt,Overnight Mutual Funds
+479,LIC MF S&P BSE Sensex Index Fund,1000,5000,0.38,LIC Mutual Fund,3,Other,Index Funds
+480,LIC MF Savings Fund,1000,5000,0.27,LIC Mutual Fund,3,Debt,Low Duration Funds
+481,LIC MF Short Term Debt Fund,1000,5000,0.37,LIC Mutual Fund,2,Debt,Short Duration Funds
+482,LIC MF Tax Plan – Direct Growth,500,500,1.47,LIC Mutual Fund,2,Equity,ELSS Mutual Funds
+483,LIC MF Ultra Short Term Fund,1000,5000,0.3,LIC Mutual Fund,1,Debt,Ultra Short Duration Funds
+484,Mahindra Manulife Aggressive Hybrid Fund,500,1000,0.65,Mahindra Manulife Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+485,Mahindra Manulife Consumption Fund,500,1000,0.82,Mahindra Manulife Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+486,Mahindra Manulife Dynamic Bond Fund,500,1000,0.51,Mahindra Manulife Mutual Fund,2,Debt,Dynamic Bond
+487,Mahindra Manulife ELSS Fund,500,500,0.73,Mahindra Manulife Mutual Fund,3,Equity,ELSS Mutual Funds
+488,Mahindra Manulife Equity Savings Fund,500,1000,0.7,Mahindra Manulife Mutual Fund,4,Hybrid,Equity Savings Mutual Funds
+489,Mahindra Manulife Large & Mid Cap Fund,500,1000,0.51,Mahindra Manulife Mutual Fund,5,Equity,Large & Mid Cap Funds
+490,Mahindra Manulife Large Cap Fund,500,1000,0.67,Mahindra Manulife Mutual Fund,4,Equity,Large Cap Mutual Funds
+491,Mahindra Manulife Liquid Fund,0,1000,0.15,Mahindra Manulife Mutual Fund,5,Debt,Liquid Mutual Funds
+492,Mahindra Manulife Low Duration Fund,500,1000,0.37,Mahindra Manulife Mutual Fund,3,Debt,Low Duration Funds
+493,Mahindra Manulife Mid Cap Fund,500,1000,0.66,Mahindra Manulife Mutual Fund,3,Equity,Mid Cap Mutual Funds
+494,Mahindra Manulife Multi Cap Fund,500,1000,0.49,Mahindra Manulife Mutual Fund,0,Equity,Multi Cap Funds
+495,Mahindra Manulife Overnight Fund,0,1000,0.12,Mahindra Manulife Mutual Fund,4,Debt,Overnight Mutual Funds
+496,Mahindra Manulife Short Duration Fund,500,1000,0.29,Mahindra Manulife Mutual Fund,3,Debt,Short Duration Funds
+497,Mahindra Manulife Ultra Short Duration Fund,500,1000,0.35,Mahindra Manulife Mutual Fund,4,Debt,Ultra Short Duration Funds
+498,Mirae Asset Banking and PSU Debt Fund,1000,5000,0.34,Mirae Asset Mutual Fund,3,Debt,Banking and PSU Mutual Funds
+499,Mirae Asset Cash Management Fund,1000,5000,0.17,Mirae Asset Mutual Fund,3,Debt,Liquid Mutual Funds
+500,Mirae Asset Corporate Bond Fund,1000,5000,0.46,Mirae Asset Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+501,Mirae Asset Dynamic Bond Fund,1000,5000,0.18,Mirae Asset Mutual Fund,2,Debt,Dynamic Bond
+502,Mirae Asset Emerging Bluechip Fund,1000,5000,0.68,Mirae Asset Mutual Fund,5,Equity,Large & Mid Cap Funds
+503,Mirae Asset Equity Savings Fund,1000,5000,0.43,Mirae Asset Mutual Fund,5,Hybrid,Equity Savings Mutual Funds
+504,Mirae Asset Focused Fund,1000,5000,0.59,Mirae Asset Mutual Fund,4,Equity,Focused Funds
+505,Mirae Asset Great Consumer Fund,1000,5000,0.5,Mirae Asset Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+506,Mirae Asset Healthcare Fund,1000,5000,0.52,Mirae Asset Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+507,Mirae Asset Hybrid – Equity Fund,1000,5000,0.36,Mirae Asset Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+508,Mirae Asset Large Cap Fund,1000,5000,0.53,Mirae Asset Mutual Fund,3,Equity,Large Cap Mutual Funds
+509,Mirae Asset Midcap Fund,1000,5000,0.58,Mirae Asset Mutual Fund,4,Equity,Mid Cap Mutual Funds
+510,Mirae Asset Money Market Fund,1000,5000,0.25,Mirae Asset Mutual Fund,3,Debt,Money Market Funds
+511,Mirae Asset Overnight Fund,1000,5000,0.11,Mirae Asset Mutual Fund,5,Debt,Overnight Mutual Funds
+512,Mirae Asset Savings Fund,1000,5000,0.37,Mirae Asset Mutual Fund,3,Debt,Low Duration Funds
+513,Mirae Asset Short Term Fund,1000,5000,0.31,Mirae Asset Mutual Fund,3,Debt,Short Duration Funds
+514,Mirae Asset Tax Saver Fund,500,500,0.54,Mirae Asset Mutual Fund,5,Equity,ELSS Mutual Funds
+515,Mirae Asset Ultra Short Duration Fund,1000,5000,0.29,Mirae Asset Mutual Fund,3,Debt,Ultra Short Duration Funds
+516,Motilal Oswal Balance Advantage Fund,500,500,1.19,Motilal Oswal Mutual Fund,1,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+517,Motilal Oswal Equity Hybrid Fund,500,500,0.94,Motilal Oswal Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+518,Motilal Oswal Flexi Cap Fund,500,500,0.97,Motilal Oswal Mutual Fund,1,Equity,Flexi Cap Funds
+519,Motilal Oswal Focused Fund,500,500,1,Motilal Oswal Mutual Fund,2,Equity,Focused Funds
+520,Motilal Oswal Large and Midcap Fund,500,500,0.73,Motilal Oswal Mutual Fund,3,Equity,Large & Mid Cap Funds
+521,Motilal Oswal Liquid Fund,500,500,0.21,Motilal Oswal Mutual Fund,1,Debt,Liquid Mutual Funds
+522,Motilal Oswal Long Term Equity Fund,500,500,0.8,Motilal Oswal Mutual Fund,3,Equity,ELSS Mutual Funds
+523,Motilal Oswal Midcap Fund,500,500,0.87,Motilal Oswal Mutual Fund,5,Equity,Mid Cap Mutual Funds
+524,Motilal Oswal Nasdaq 100 FOF – Direct Growth,500,500,0.1,Motilal Oswal Mutual Fund,0,Other,FoFs Overseas
+525,Motilal Oswal Nifty 50 Index Fund,500,500,0.14,Motilal Oswal Mutual Fund,4,Other,Index Funds
+526,Motilal Oswal Nifty 500 Index Fund,500,500,0.4,Motilal Oswal Mutual Fund,3,Other,Index Funds
+527,Motilal Oswal Nifty Bank Index Fund,500,500,0.21,Motilal Oswal Mutual Fund,2,Other,Index Funds
+528,Motilal Oswal Nifty Midcap 150 Index Fund,500,500,0.22,Motilal Oswal Mutual Fund,3,Other,Index Funds
+529,Motilal Oswal Nifty Next 50 Index Fund,500,500,0.33,Motilal Oswal Mutual Fund,2,Other,Index Funds
+530,Motilal Oswal Nifty Smallcap 250 Index Fund,500,500,0.31,Motilal Oswal Mutual Fund,2,Other,Index Funds
+531,Motilal Oswal Ultra Short Term Fund,500,500,0.58,Motilal Oswal Mutual Fund,1,Debt,Ultra Short Duration Funds
+532,Navi 3 In 1 Fund,500,1000,0.34,Navi Mutual Fund,2,Hybrid,Multi Asset Allocation Mutual Funds
+533,Navi ELSS Tax Saver Fund,500,500,0.4,Navi Mutual Fund,2,Equity,ELSS Mutual Funds
+534,Navi Equity Hybrid Fund,500,10,0.42,Navi Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+535,Navi Flexi Cap Fund,500,10,0.43,Navi Mutual Fund,3,Equity,Flexi Cap Funds
+536,Navi Large & Midcap Fund,500,10,0.35,Navi Mutual Fund,3,Equity,Large & Mid Cap Funds
+537,Navi Large Cap Equity Fund,500,1000,0.31,Navi Mutual Fund,2,Equity,Large Cap Mutual Funds
+538,Navi Regular Savings Fund,500,10,0.39,Navi Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+539,Navi Ultra Short Term Fund,500,1000,0.73,Navi Mutual Fund,1,Debt,Ultra Short Duration Funds
+540,Nippon India Arbitrage Fund,100,5000,0.21,Nippon India Mutual Fund,4,Hybrid,Arbitrage Mutual Funds
+541,Nippon India Balanced Advantage Fund,100,100,0.65,Nippon India Mutual Fund,3,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+542,Nippon India Banking & PSU Debt Fund,100,5000,0.33,Nippon India Mutual Fund,4,Debt,Banking and PSU Mutual Funds
+543,Nippon India Banking&Financial Services-DirGrowth,100,5000,1.32,Nippon India Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+544,Nippon India Consumption Fund,100,5000,1.76,Nippon India Mutual Fund,5,Equity,Sectoral / Thematic Mutual Funds
+545,Nippon India Corporate Bond Fund,100,5000,0.32,Nippon India Mutual Fund,5,Debt,Corporate Bond Mutual Funds
+546,Nippon India Credit Risk Fund,100,500,1,Nippon India Mutual Fund,2,Debt,Credit Risk Funds
+547,Nippon India Dynamic Bond Fund,100,5000,0.28,Nippon India Mutual Fund,1,Debt,Dynamic Bond
+548,Nippon India Equity Hybrid Fund,100,500,1.31,Nippon India Mutual Fund,1,Hybrid,Aggressive Hybrid Mutual Funds
+549,Nippon India Equity Savings Fund,100,5000,0.69,Nippon India Mutual Fund,1,Hybrid,Equity Savings Mutual Funds
+550,Nippon India Floating Rate Fund,100,5000,0.27,Nippon India Mutual Fund,3,Debt,Floater Mutual Funds
+551,Nippon India Focused Equity Fund,100,5000,1.2,Nippon India Mutual Fund,3,Equity,Focused Funds
+552,Nippon India Gold Savings Fund,100,100,0.19,Nippon India Mutual Fund,2,Other,FoFs Domestic
+553,Nippon India Growth Fund,100,100,1.09,Nippon India Mutual Fund,4,Equity,Mid Cap Mutual Funds
+554,Nippon India GSF – Direct Growth,100,5000,0.63,Nippon India Mutual Fund,3,Debt,Gilt Mutual Funds
+555,Nippon India Hybrid Bond Fund,100,5000,1.26,Nippon India Mutual Fund,1,Hybrid,Conservative Hybrid Mutual Funds
+556,Nippon India Income Fund,100,5000,0.58,Nippon India Mutual Fund,3,Debt,Medium to Long Duration Funds
+557,Nippon India Index Fund,100,5000,0.15,Nippon India Mutual Fund,4,Other,Index Funds
+558,Nippon India Index Fund,100,100,0.2,Nippon India Mutual Fund,3,Other,Index Funds
+559,Nippon India Large Cap Fund,100,100,1.01,Nippon India Mutual Fund,3,Equity,Large Cap Mutual Funds
+560,Nippon India Liquid Fund,100,1000,0.2,Nippon India Mutual Fund,3,Debt,Liquid Mutual Funds
+561,Nippon India Low Duration Fund,100,500,0.37,Nippon India Mutual Fund,4,Debt,Low Duration Funds
+562,Nippon India Money Market Fund,100,500,0.21,Nippon India Mutual Fund,5,Debt,Money Market Funds
+563,Nippon India Multi Cap Fund,100,100,1.12,Nippon India Mutual Fund,0,Equity,Multi Cap Funds
+564,Nippon India Nifty Next 50 Junior BeES FoF-Dir Growth,100,100,0.02,Nippon India Mutual Fund,2,Other,FoFs Domestic
+565,Nippon India Overnight Fund,100,100,0.08,Nippon India Mutual Fund,4,Debt,Overnight Mutual Funds
+566,Nippon India Pharma Fund,100,5000,1.17,Nippon India Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+567,Nippon India Power & Infra Fund,100,5000,1.58,Nippon India Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+568,Nippon India Quant Fund,100,5000,0.54,Nippon India Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+569,Nippon India Retirement Fund,500,500,0.85,Nippon India Mutual Fund,2,Solution Oriented,Retirement Funds
+570,Nippon India Retirement Fund,500,500,1.03,Nippon India Mutual Fund,1,Solution Oriented,Retirement Funds
+571,Nippon India Short Term Fund,100,100,0.34,Nippon India Mutual Fund,4,Debt,Short Duration Funds
+572,Nippon India Small Cap Fund,100,5000,0.86,Nippon India Mutual Fund,4,Equity,Small Cap Mutual Funds
+573,Nippon India Strategic Debt Fund,100,5000,1.4,Nippon India Mutual Fund,2,Debt,Medium Duration Funds
+574,Nippon India Tax Saver (ELSS) Fund,500,500,1.18,Nippon India Mutual Fund,1,Equity,ELSS Mutual Funds
+575,Nippon India US Equity Opportunities Fund,100,100,1.22,Nippon India Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+576,Nippon India USD Fund,100,100,0.38,Nippon India Mutual Fund,5,Debt,Ultra Short Duration Funds
+577,Nippon India Value Fund,100,500,1.21,Nippon India Mutual Fund,3,Equity,Value Funds
+578,Nippon India Vision Fund,100,5000,1.55,Nippon India Mutual Fund,1,Equity,Large & Mid Cap Funds
+579,Parag Parikh Flexi Cap Fund,1000,1000,0.75,PPFAS Mutual Fund,5,Equity,Flexi Cap Funds
+580,Parag Parikh Liquid Fund,1000,5000,0.17,PPFAS Mutual Fund,1,Debt,Liquid Mutual Funds
+581,Parag Parikh Tax Saver Fund,1000,500,0.8,PPFAS Mutual Fund,5,Equity,ELSS Mutual Funds
+582,PGIM India Arbitrage Fund,1000,5000,0.33,PGIM India Mutual Fund,2,Hybrid,Arbitrage Mutual Funds
+583,PGIM India Banking&PSU Debt Fund,1000,5000,0.25,PGIM India Mutual Fund,3,Debt,Banking and PSU Mutual Funds
+584,PGIM India Corporate Bond Fund,1000,5000,0.29,PGIM India Mutual Fund,4,Debt,Corporate Bond Mutual Funds
+585,PGIM India Dynamic Bond Fund,1000,5000,0.36,PGIM India Mutual Fund,3,Debt,Dynamic Bond
+586,PGIM India Elss Tax Saver Fund,500,500,1,PGIM India Mutual Fund,4,Equity,ELSS Mutual Funds
+587,PGIM India Equity Savings Fund,1000,5000,0.42,PGIM India Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+588,PGIM India Flexi Cap Fund,1000,100,0.4,PGIM India Mutual Fund,5,Equity,Flexi Cap Funds
+589,PGIM India GEO Fund,1000,5000,1.44,PGIM India Mutual Fund,0,Other,FoFs Overseas
+590,PGIM India Gilt Fund,1000,5000,0.39,PGIM India Mutual Fund,3,Debt,Gilt Mutual Funds
+591,PGIM India Hybrid Equity Fund,1000,5000,0.68,PGIM India Mutual Fund,2,Hybrid,Aggressive Hybrid Mutual Funds
+592,PGIM India Large Cap Fund,1000,5000,0.98,PGIM India Mutual Fund,2,Equity,Large Cap Mutual Funds
+593,PGIM India Liquid Fund,1000,100,0.17,PGIM India Mutual Fund,3,Debt,Liquid Mutual Funds
+594,PGIM India Low Duration Fund,1000,5000,0.35,PGIM India Mutual Fund,1,Debt,Low Duration Funds
+595,PGIM India Midcap Opportunities Fund,1000,5000,0.46,PGIM India Mutual Fund,5,Equity,Mid Cap Mutual Funds
+596,PGIM India Money Market Fund,1000,5000,0.15,PGIM India Mutual Fund,4,Debt,Money Market Funds
+597,PGIM India Overnight Fund,1000,100,0.12,PGIM India Mutual Fund,4,Debt,Overnight Mutual Funds
+598,PGIM India Short Duration Fund,1000,5000,0.5,PGIM India Mutual Fund,3,Debt,Short Duration Funds
+599,PGIM India Ultra Short Duration Fund,1000,25000,0.25,PGIM India Mutual Fund,3,Debt,Ultra Short Duration Funds
+600,Quant Absolute Fund,1000,5000,0.56,Quant Mutual Fund,5,Hybrid,Aggressive Hybrid Mutual Funds
+601,Quant Active Fund,1000,5000,0.58,Quant Mutual Fund,0,Equity,Multi Cap Funds
+602,Quant Flexi Cap Fund,1000,5000,0.58,Quant Mutual Fund,5,Equity,Flexi Cap Funds
+603,Quant Focused Fund,1000,5000,0.57,Quant Mutual Fund,5,Equity,Focused Funds
+604,Quant Infrastructure Fund,1000,5000,0.64,Quant Mutual Fund,5,Equity,Sectoral / Thematic Mutual Funds
+605,Quant Large and Mid Cap Fund,1000,5000,0.56,Quant Mutual Fund,5,Equity,Large & Mid Cap Funds
+606,Quant Liquid Plan – Direct Growth,1000,5000,0.29,Quant Mutual Fund,5,Debt,Liquid Mutual Funds
+607,Quant Mid Cap Fund,1000,5000,0.63,Quant Mutual Fund,5,Equity,Mid Cap Mutual Funds
+608,Quant Multi Asset Fund,1000,5000,0.56,Quant Mutual Fund,5,Hybrid,Multi Asset Allocation Mutual Funds
+609,Quant Small Cap Fund,1000,5000,0.64,Quant Mutual Fund,5,Equity,Small Cap Mutual Funds
+610,Quant Tax Plan- Direct Growth,500,500,0.57,Quant Mutual Fund,5,Equity,ELSS Mutual Funds
+611,Quantum Dynamic Bond Fund,500,500,0.61,Quantum Mutual Fund,3,Debt,Dynamic Bond
+612,Quantum Equity Fund,500,500,0.51,Quantum Mutual Fund,2,Other,FoFs Domestic
+613,Quantum Gold Savings Fund,500,500,0.06,Quantum Mutual Fund,1,Other,FoFs Domestic
+614,Quantum Liquid Fund,500,5000,0.15,Quantum Mutual Fund,2,Debt,Liquid Mutual Funds
+615,Quantum Long Term Equity Value Fund,500,500,1.29,Quantum Mutual Fund,2,Equity,Value Funds
+616,Quantum Multi Asset Fund,500,500,0.1,Quantum Mutual Fund,3,Other,FoFs Domestic
+617,Quantum Tax Saving Fund,500,500,1.29,Quantum Mutual Fund,3,Equity,ELSS Mutual Funds
+618,SBI Arbitrage Opportunities Fund,500,5000,0.36,SBI Mutual Fund,2,Hybrid,Arbitrage Mutual Funds
+619,SBI Banking & Financial Services Fund,500,5000,0.78,SBI Mutual Fund,5,Equity,Sectoral / Thematic Mutual Funds
+620,SBI Banking and PSU Fund,500,5000,0.35,SBI Mutual Fund,2,Debt,Banking and PSU Mutual Funds
+621,SBI BlueChip Fund,500,5000,0.9,SBI Mutual Fund,3,Equity,Large Cap Mutual Funds
+622,SBI Conservative Hybrid Fund,500,5000,0.57,SBI Mutual Fund,4,Hybrid,Conservative Hybrid Mutual Funds
+623,SBI Consumption Opportunities Fund,500,5000,1.18,SBI Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+624,SBI Contra Fund,500,5000,0.91,SBI Mutual Fund,5,Equity,Contra Funds
+625,SBI Corporate Bond Fund,500,5000,0.34,SBI Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+626,SBI Credit Risk Fund,500,10000,0.92,SBI Mutual Fund,3,Debt,Credit Risk Funds
+627,SBI Dynamic Bond Fund,500,5000,0.87,SBI Mutual Fund,4,Debt,Dynamic Bond
+628,SBI Equity Hybrid Fund,500,1000,0.79,SBI Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+629,SBI Equity Minimum Variance – Direct Growth,500,5000,0.42,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+630,SBI Equity Savings Fund,500,1000,0.67,SBI Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+631,SBI Flexi Cap Fund,500,1000,0.85,SBI Mutual Fund,3,Equity,Flexi Cap Funds
+632,SBI Floating Rate Debt Fund,500,5000,0.26,SBI Mutual Fund,3,Debt,Floater Mutual Funds
+633,SBI FMP – Series 1 (3668 Days) – Direct Growth,0,5000,0,SBI Mutual Fund,0,Debt,Fixed Maturity Plans
+634,SBI Focused Equity Fund,500,5000,0.69,SBI Mutual Fund,3,Equity,Focused Funds
+635,SBI Gold Fund,500,5000,0.1,SBI Mutual Fund,3,Other,FoFs Domestic
+636,SBI Healthcare Opportunities Fund,500,5000,1.09,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+637,SBI Infrastructure Fund,500,5000,1.88,SBI Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+638,SBI Large & Midcap Fund,500,5000,0.99,SBI Mutual Fund,5,Equity,Large & Mid Cap Funds
+639,SBI Liquid Fund,500,500,0.18,SBI Mutual Fund,3,Debt,Liquid Mutual Funds
+640,SBI Long Term Advantage Fund,0,500,1.75,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+641,SBI Long Term Advantage Fund,0,500,1.76,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+642,SBI Long Term Advantage Fund,0,500,1.76,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+643,SBI Long Term Advantage Fund,0,500,1.76,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+644,SBI Long Term Advantage Fund,0,500,1.76,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+645,SBI Long Term Advantage Fund,0,500,1.76,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+646,SBI Long Term Equity Fund,500,500,1.07,SBI Mutual Fund,3,Equity,ELSS Mutual Funds
+647,SBI Magnum Children’s Benefit Fund,500,5000,0.86,SBI Mutual Fund,4,Solution Oriented,Childrens Funds
+648,SBI Magnum Comma Fund,500,5000,2.03,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+649,SBI Magnum Equity ESG Fund,500,1000,1.35,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+650,SBI Magnum Gilt Fund,500,5000,0.46,SBI Mutual Fund,5,Debt,Gilt Mutual Funds
+651,SBI Magnum Global Fund,500,5000,1.25,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+652,SBI Magnum Income Fund,500,5000,0.8,SBI Mutual Fund,4,Debt,Medium to Long Duration Funds
+653,SBI Magnum Low Duration Fund,500,5000,0.4,SBI Mutual Fund,3,Debt,Low Duration Funds
+654,SBI Magnum Medium Duration Fund,500,5000,0.69,SBI Mutual Fund,4,Debt,Medium Duration Funds
+655,SBI Magnum Midcap Fund,500,5000,0.97,SBI Mutual Fund,4,Equity,Mid Cap Mutual Funds
+656,SBI Magnum Ultra Short Duration Fund,2000,5000,0.31,SBI Mutual Fund,2,Debt,Ultra Short Duration Funds
+657,SBI Multi Asset Allocation Fund,500,5000,0.88,SBI Mutual Fund,3,Hybrid,Multi Asset Allocation Mutual Funds
+658,SBI Nifty Index Fund,500,5000,0.18,SBI Mutual Fund,3,Other,Index Funds
+659,SBI Overnight Fund,2000,5000,0.1,SBI Mutual Fund,2,Debt,Overnight Mutual Funds
+660,SBI PSU Fund,500,5000,1.42,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+661,SBI Savings Fund,500,500,0.23,SBI Mutual Fund,3,Debt,Money Market Funds
+662,SBI Short Term Debt Fund,500,5000,0.35,SBI Mutual Fund,3,Debt,Short Duration Funds
+663,SBI Small Cap Fund,500,5000,0.7,SBI Mutual Fund,4,Equity,Small Cap Mutual Funds
+664,SBI Tax Advantage Fund,0,500,1.76,SBI Mutual Fund,0,Equity,ELSS Mutual Funds
+665,SBI Technology Opportunities Fund,500,5000,0.87,SBI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+666,Shriram Balanced Advantage Fund,1000,5000,0.6,Shriram Mutual Fund,3,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+667,Shriram Flexi Cap Fund,1000,5000,0.65,Shriram Mutual Fund,2,Equity,Flexi Cap Funds
+668,Shriram Hybrid Equity Fund,1000,5000,0.65,Shriram Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+669,Shriram Long Term Equity Fund,500,500,0.6,Shriram Mutual Fund,3,Equity,ELSS Mutual Funds
+670,Sundaram Aggressive Hybrid Fund,100,100,0.67,Sundaram Mutual Fund,4,Hybrid,Aggressive Hybrid Mutual Funds
+671,Sundaram Arbitrage Fund,500,100,0.28,Sundaram Mutual Fund,1,Hybrid,Arbitrage Mutual Funds
+672,Sundaram Balanced Advantage Fund,500,100,0.62,Sundaram Mutual Fund,5,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+673,Sundaram Banking & PSU Debt Fund,250,5000,0.19,Sundaram Mutual Fund,2,Debt,Banking and PSU Mutual Funds
+674,Sundaram Consumption Fund,100,100,1.46,Sundaram Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+675,Sundaram Corporate Bond Fund,250,5000,0.28,Sundaram Mutual Fund,4,Debt,Corporate Bond Mutual Funds
+676,Sundaram Debt Oriented Hybrid Fund,100,5000,1.2,Sundaram Mutual Fund,2,Hybrid,Conservative Hybrid Mutual Funds
+677,Sundaram Diversified Equity – Direct Growth,100,500,1.66,Sundaram Mutual Fund,2,Equity,ELSS Mutual Funds
+678,Sundaram Dividend Yield Fund,500,5000,1.02,Sundaram Mutual Fund,0,Equity,Dividend Yield Funds
+679,Sundaram Emerging Small Cap Series III – Dir Growth,0,5000,0.75,Sundaram Mutual Fund,0,Equity,Small Cap Mutual Funds
+680,Sundaram Emerging Small Cap Series IV – Dir Growth,0,5000,0.75,Sundaram Mutual Fund,0,Equity,Small Cap Mutual Funds
+681,Sundaram Emerging Small Cap Series V – Dir Growth,0,5000,0.79,Sundaram Mutual Fund,0,Equity,Small Cap Mutual Funds
+682,Sundaram Emerging Small Cap Series VI – Dir Growth,0,5000,0.77,Sundaram Mutual Fund,0,Equity,Small Cap Mutual Funds
+683,Sundaram Emerging Small Cap Series VII – Dir Growth,0,5000,0.97,Sundaram Mutual Fund,0,Equity,Small Cap Mutual Funds
+684,Sundaram Equity Savings Fund,500,100,0.54,Sundaram Mutual Fund,4,Hybrid,Equity Savings Mutual Funds
+685,Sundaram Fin Serv Opportunities – Direct Growth,100,100,0.51,Sundaram Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+686,Sundaram Focused Fund,100,300,1.2,Sundaram Mutual Fund,4,Equity,Focused Funds
+687,Sundaram Global Brand Fund,100,100,1.42,Sundaram Mutual Fund,0,Other,FoFs Overseas
+688,Sundaram Infrastructure Advantage Fund,100,100,1.87,Sundaram Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+689,Sundaram Large and Mid Cap Fund,100,100,0.72,Sundaram Mutual Fund,3,Equity,Large & Mid Cap Funds
+690,Sundaram Large Cap Fund,100,100,0.6,Sundaram Mutual Fund,5,Equity,Large Cap Mutual Funds
+691,Sundaram Liquid Fund,2000,1000,0.17,Sundaram Mutual Fund,4,Debt,Liquid Mutual Funds
+692,Sundaram Low Duration Fund,2000,1000,0.33,Sundaram Mutual Fund,2,Debt,Low Duration Funds
+693,Sundaram LT MC Tax Advantage Fund,0,500,1.22,Sundaram Mutual Fund,0,Equity,ELSS Mutual Funds
+694,Sundaram LT MC Tax Advantage Fund,0,500,1.23,Sundaram Mutual Fund,0,Equity,ELSS Mutual Funds
+695,Sundaram LT MC Tax Advantage Fund,0,500,1.26,Sundaram Mutual Fund,0,Equity,ELSS Mutual Funds
+696,Sundaram LT Tax Advantage Fund,0,500,1.3,Sundaram Mutual Fund,0,Equity,ELSS Mutual Funds
+697,Sundaram LT Tax Advantage Fund,0,500,1.2,Sundaram Mutual Fund,0,Equity,ELSS Mutual Funds
+698,Sundaram LT Tax Advantage Fund,0,500,1.01,Sundaram Mutual Fund,0,Equity,ELSS Mutual Funds
+699,Sundaram Medium Term Bond Fund,250,5000,1.11,Sundaram Mutual Fund,2,Debt,Medium Duration Funds
+700,Sundaram Mid Cap Fund,100,100,1.04,Sundaram Mutual Fund,2,Equity,Mid Cap Mutual Funds
+701,Sundaram Money Market Fund,1000,1000,0.22,Sundaram Mutual Fund,3,Debt,Money Market Funds
+702,Sundaram Multi Cap Fund,100,100,0.97,Sundaram Mutual Fund,3,Equity,Multi Cap Funds
+703,Sundaram Multi Cap Fund,0,5000,0.79,Sundaram Mutual Fund,0,Equity,Multi Cap Funds
+704,Sundaram Multi Cap Fund,0,5000,0.79,Sundaram Mutual Fund,0,Equity,Multi Cap Funds
+705,Sundaram Nifty 100 Equal Weight Fund,500,100,0.46,Sundaram Mutual Fund,2,Other,Index Funds
+706,Sundaram Overnight Fund,1000,5000,0.07,Sundaram Mutual Fund,2,Debt,Overnight Mutual Funds
+707,Sundaram Services Fund,750,100,0.93,Sundaram Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+708,Sundaram Short Duration Fund,2000,5000,0.28,Sundaram Mutual Fund,5,Debt,Short Duration Funds
+709,Sundaram Small Cap Fund,250,100,1.01,Sundaram Mutual Fund,2,Equity,Small Cap Mutual Funds
+710,Sundaram Tax Savings Fund,500,500,1.76,Sundaram Mutual Fund,3,Equity,ELSS Mutual Funds
+711,Sundaram Ultra Short Duration Fund,2000,1000,0.17,Sundaram Mutual Fund,3,Debt,Ultra Short Duration Funds
+712,Tata Arbitrage Fund,150,5000,0.28,Tata Mutual Fund,5,Hybrid,Arbitrage Mutual Funds
+713,Tata Balanced Advantage Fund,150,5000,0.28,Tata Mutual Fund,4,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+714,Tata Banking & Financial Services Fund,150,5000,0.59,Tata Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+715,Tata Banking & PSU Debt Fund,150,5000,0.23,Tata Mutual Fund,3,Debt,Banking and PSU Mutual Funds
+716,Tata Digital India Fund,150,5000,0.31,Tata Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+717,Tata Equity P/E Fund,150,5000,0.91,Tata Mutual Fund,2,Equity,Value Funds
+718,Tata Equity Saving Fund,150,5000,0.12,Tata Mutual Fund,3,Hybrid,Equity Savings Mutual Funds
+719,Tata Ethical Fund,150,5000,0.94,Tata Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+720,Tata Flexi Cap Fund,150,5000,0.77,Tata Mutual Fund,2,Equity,Flexi Cap Funds
+721,Tata Floating Rate Fund,150,5000,0.3,Tata Mutual Fund,4,Debt,Floater Mutual Funds
+722,Tata Focused Equity Fund,150,5000,0.46,Tata Mutual Fund,3,Equity,Focused Funds
+723,Tata Gilt Securities Fund,150,5000,0.9,Tata Mutual Fund,2,Debt,Gilt Mutual Funds
+724,Tata Hybrid Equity Fund,150,5000,1.05,Tata Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+725,Tata India Consumer Fund,150,5000,0.91,Tata Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+726,Tata India Pharma & Healthcare Fund,150,5000,1.01,Tata Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+727,Tata India Tax Savings Fund,500,500,0.76,Tata Mutual Fund,0,Equity,ELSS Mutual Funds
+728,Tata Infrastructure Fund,150,5000,1.42,Tata Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+729,Tata Large & Mid Cap Fund,150,5000,0.89,Tata Mutual Fund,4,Equity,Large & Mid Cap Funds
+730,Tata Large Cap Fund,150,5000,1.24,Tata Mutual Fund,2,Equity,Large Cap Mutual Funds
+731,Tata Liquid Fund,150,5000,0.21,Tata Mutual Fund,3,Debt,Liquid Mutual Funds
+732,Tata Mid Cap Growth Fund,150,5000,0.98,Tata Mutual Fund,3,Equity,Mid Cap Mutual Funds
+733,Tata Money Market Fund,150,5000,0.17,Tata Mutual Fund,5,Debt,Money Market Funds
+734,Tata Nifty 50 Index Fund,150,5000,0.16,Tata Mutual Fund,3,Other,Index Funds
+735,Tata Overnight Fund,1000,5000,0.09,Tata Mutual Fund,3,Debt,Overnight Mutual Funds
+736,Tata Resources & Energy Fund,150,5000,0.91,Tata Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+737,Tata Retirement Savings Fund,150,5000,0.68,Tata Mutual Fund,3,Solution Oriented,Retirement Funds
+738,Tata Retirement Savings Fund,150,5000,0.67,Tata Mutual Fund,2,Solution Oriented,Retirement Funds
+739,Tata Retirement Savings Fund,150,5000,0.97,Tata Mutual Fund,2,Solution Oriented,Retirement Funds
+740,Tata S&P BSE Sensex Index Fund,150,5000,0.27,Tata Mutual Fund,4,Other,Index Funds
+741,Tata Short Term Bond Fund,150,10000,0.37,Tata Mutual Fund,3,Debt,Short Duration Funds
+742,Tata Small Cap Fund,150,5000,0.26,Tata Mutual Fund,4,Equity,Small Cap Mutual Funds
+743,Tata Treasury Advantage Fund,150,5000,0.3,Tata Mutual Fund,3,Debt,Low Duration Funds
+744,Tata Ultra Short Term Fund,150,5000,0.25,Tata Mutual Fund,4,Debt,Ultra Short Duration Funds
+745,Tata Young Citizens Fund,500,500,1.8,Tata Mutual Fund,0,Solution Oriented,Childrens Funds
+746,Taurus Banking & Financial Services-Direct Growth,1000,5000,1.66,Taurus Mutual Fund,4,Equity,Sectoral / Thematic Mutual Funds
+747,Taurus Discovery (Midcap) Fund,1000,5000,2.19,Taurus Mutual Fund,3,Equity,Mid Cap Mutual Funds
+748,Taurus Ethical Fund,1000,5000,1.18,Taurus Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+749,Taurus Flexi Cap Fund,1000,5000,2.59,Taurus Mutual Fund,1,Equity,Flexi Cap Funds
+750,Taurus Infrastructure Fund,1000,5000,2.02,Taurus Mutual Fund,3,Equity,Sectoral / Thematic Mutual Funds
+751,Taurus Largecap Equity Fund,1000,5000,0.44,Taurus Mutual Fund,1,Equity,Large Cap Mutual Funds
+752,Taurus Nifty 50 Index Fund,1000,5000,0.44,Taurus Mutual Fund,0,Other,Index Funds
+753,Taurus Tax Shield – Direct Growth,500,500,1.73,Taurus Mutual Fund,3,Equity,ELSS Mutual Funds
+754,Templeton India Equity Income Fund,500,5000,1.3,Franklin Templeton Mutual Fund,0,Equity,Dividend Yield Funds
+755,Templeton India Value Fund,500,5000,0.91,Franklin Templeton Mutual Fund,3,Equity,Value Funds
+756,TRUSTMF Banking & PSU Debt Fund,1000,1000,0.21,Trust Mutual Fund,2,Debt,Banking and PSU Mutual Funds
+757,TRUSTMF Liquid Fund,1000,1000,0.1,Trust Mutual Fund,2,Debt,Liquid Mutual Funds
+758,TRUSTMF Short Term Fund,1000,1000,0.23,Trust Mutual Fund,2,Debt,Short Duration Funds
+759,Union Arbitrage Fund,500,1000,0.44,Union Mutual Fund,3,Hybrid,Arbitrage Mutual Funds
+760,Union Balanced Advantage Fund,500,1000,0.94,Union Mutual Fund,3,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+761,Union Corporate Bond Fund,1000,1000,0.45,Union Mutual Fund,2,Debt,Corporate Bond Mutual Funds
+762,Union Dynamic Bond Fund,1000,1000,1.29,Union Mutual Fund,1,Debt,Dynamic Bond
+763,Union Equity Savings Fund,500,1000,1.47,Union Mutual Fund,2,Hybrid,Equity Savings Mutual Funds
+764,Union Flexi Cap Fund,500,1000,1.06,Union Mutual Fund,4,Equity,Flexi Cap Funds
+765,Union Focused Fund,500,1000,1.57,Union Mutual Fund,4,Equity,Focused Funds
+766,Union Large & Midcap Fund,500,1000,1.2,Union Mutual Fund,3,Equity,Large & Mid Cap Funds
+767,Union Largecap Fund,1000,1000,1.8,Union Mutual Fund,2,Equity,Large Cap Mutual Funds
+768,Union Liquid Fund,2000,5000,0.07,Union Mutual Fund,4,Debt,Liquid Mutual Funds
+769,Union Long Term Equity Fund,500,500,1.62,Union Mutual Fund,4,Equity,ELSS Mutual Funds
+770,Union Medium Duration Fund,500,1000,0.64,Union Mutual Fund,2,Debt,Medium Duration Funds
+771,Union Money Market Fund,2000,5000,0.24,Union Mutual Fund,3,Debt,Money Market Funds
+772,Union Overnight Fund,2000,5000,0.08,Union Mutual Fund,3,Debt,Overnight Mutual Funds
+773,Union Small Cap Fund,500,1000,1.35,Union Mutual Fund,3,Equity,Small Cap Mutual Funds
+774,Union Value Discovery Fund,500,1000,1.59,Union Mutual Fund,3,Equity,Value Funds
+775,UTI-Arbitrage Fund,500,5000,0.34,UTI Mutual Fund,3,Hybrid,Arbitrage Mutual Funds
+776,UTI-Banking & PSU Debt Fund,500,500,0.24,UTI Mutual Fund,1,Debt,Banking and PSU Mutual Funds
+777,UTI-Banking and Financial Services Fund,500,5000,1.39,UTI Mutual Fund,1,Equity,Sectoral / Thematic Mutual Funds
+778,UTI-Bond Fund,500,500,1.29,UTI Mutual Fund,5,Debt,Medium to Long Duration Funds
+779,UTI-CCF Investment Plan – Direct Growth,500,1000,1.52,UTI Mutual Fund,0,Solution Oriented,Childrens Funds
+780,UTI-Core Equity Fund,500,5000,1.68,UTI Mutual Fund,2,Equity,Large & Mid Cap Funds
+781,UTI-Corporate Bond Fund,500,500,0.23,UTI Mutual Fund,3,Debt,Corporate Bond Mutual Funds
+782,UTI-Credit Risk Fund,500,500,0.81,UTI Mutual Fund,4,Debt,Credit Risk Funds
+783,UTI-Dividend Yield Fund,500,5000,1.45,UTI Mutual Fund,0,Equity,Dividend Yield Funds
+784,UTI-Dynamic Bond Fund,500,500,0.81,UTI Mutual Fund,3,Debt,Dynamic Bond
+785,UTI-Equity Savings Fund,0,5000,0.68,UTI Mutual Fund,4,Hybrid,Equity Savings Mutual Funds
+786,UTI-Flexi Cap Fund,500,5000,0.9,UTI Mutual Fund,4,Equity,Flexi Cap Funds
+787,UTI-Floater Fund,500,500,0.35,UTI Mutual Fund,3,Debt,Floater Mutual Funds
+788,UTI-Gilt Fund,500,500,0.67,UTI Mutual Fund,3,Debt,Gilt Mutual Funds
+789,UTI-Healthcare Fund,500,5000,1.47,UTI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+790,UTI-Hybrid Equity Fund,500,1000,1.34,UTI Mutual Fund,3,Hybrid,Aggressive Hybrid Mutual Funds
+791,UTI-India Consumer Fund,500,5000,1.8,UTI Mutual Fund,1,Equity,Sectoral / Thematic Mutual Funds
+792,UTI-Infrastructure Fund,500,5000,1.92,UTI Mutual Fund,2,Equity,Sectoral / Thematic Mutual Funds
+793,UTI-Liquid – Cash Plan – Direct Growth,0,500,0.14,UTI Mutual Fund,4,Debt,Liquid Mutual Funds
+794,UTI-Long Term Equity Fund,500,500,0.95,UTI Mutual Fund,3,Equity,ELSS Mutual Funds
+795,UTI-Mastershare – Direct Growth,500,100,0.97,UTI Mutual Fund,4,Equity,Large Cap Mutual Funds
+796,UTI-Medium Term Fund,500,500,1,UTI Mutual Fund,2,Debt,Medium Duration Funds
+797,UTI-Mid Cap Fund,500,5000,0.99,UTI Mutual Fund,3,Equity,Mid Cap Mutual Funds
+798,UTI-MNC Fund,500,5000,1.24,UTI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+799,UTI-Money Market Fund,500,500,0.2,UTI Mutual Fund,4,Debt,Money Market Funds
+800,UTI-Multi Asset Fund,500,5000,1.04,UTI Mutual Fund,2,Hybrid,Multi Asset Allocation Mutual Funds
+801,UTI-Nifty 50 Index Fund,500,5000,0.2,UTI Mutual Fund,3,Other,Index Funds
+802,UTI-Nifty Next 50 Index Fund,0,5000,0.33,UTI Mutual Fund,2,Other,Index Funds
+803,UTI-Overnight Fund,500,500,0.07,UTI Mutual Fund,3,Debt,Overnight Mutual Funds
+804,UTI-Regular Savings Fund,500,5000,1.2,UTI Mutual Fund,3,Hybrid,Conservative Hybrid Mutual Funds
+805,UTI-Retirement Benefit Pension Plan – Direct,500,500,1.05,UTI Mutual Fund,0,Solution Oriented,Retirement Funds
+806,UTI-Short Term Income Fund,500,500,0.33,UTI Mutual Fund,5,Debt,Short Duration Funds
+807,UTI-Transportation & Logistics Fund,500,5000,1.03,UTI Mutual Fund,0,Equity,Sectoral / Thematic Mutual Funds
+808,UTI-Treasury Advantage Fund,500,500,0.33,UTI Mutual Fund,5,Debt,Low Duration Funds
+809,UTI-Ultra Short Term Fund,500,500,0.44,UTI Mutual Fund,5,Debt,Ultra Short Duration Funds
+810,UTI-Unit Linked Insurance Plan – Direct,500,15000,0.96,UTI Mutual Fund,0,Hybrid,Dynamic Asset Allocation or Balanced Advantage
+811,UTI-Value Opportunities Fund,500,5000,1.16,UTI Mutual Fund,4,Equity,Value Funds
+812,WhiteOak Capital Liquid Fund,500,500,0.26,WhiteOak Capital Mutual Fund,1,Debt,Liquid Mutual Funds
+813,WhiteOak Capital Overnight Fund,500,500,0.22,WhiteOak Capital Mutual Fund,1,Debt,Overnight Mutual Funds
+814,WhiteOak Capital Ultra Short Term Fund,500,500,0.33,WhiteOak Capital Mutual Fund,2,Debt,Ultra Short Duration Funds
