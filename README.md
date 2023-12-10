@@ -51,7 +51,18 @@ Return_5yr (%): The return percentage of the mutual fund scheme over 5year.<br>
 7.	Calculated and added Average Returns column in Returns table.
 8.	Modify the datatype of columns wherever required.
 
+## Data Analysis
 
+1. I have analysed total number of schemes present under each AMC ( Asset Management Company), where ICICI Prudential Mutual Fund has the highest number of schemes i.e 56 according to this dataset.
+2. There are total 772 subcategories of mutual funds, from which 37% of subcategories are in equity, 34% are Debt, 15% are hybrid, 10% are other and 4% are solution oriented.
+3. Bank of India short term income scheme has given the highest returns i.e 28.3 % in first year of its inception
+4. Under each AMC I have analysed which are best Fund Managers who have achieved the highest returns in 5 year.
+5. The relation between the expense ratio and risk level is directly proportional, as the risk level increases the expense ratio also increases.
+6. Schemes which have top 10 alpha values belongs to equity and hybrid category.
+   note: ( Alpha is the excess returns relative to market benchmark for a given amount of risk taken by the scheme.)
+7. When the sharpe ratio is greater than and equal to 2 the average fund size is 6107cr and when sharpe ratio is less than equal to 1 the average fund size is 3022cr.
+   From this we can conclude that when the fund size is bigger, than the chances of good returns are higher.
+   
 
 
 
