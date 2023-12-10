@@ -60,13 +60,3 @@ Return_5yr (%): The return percentage of the mutual fund scheme over 5year.<br>
 
 
 
-
-
-
-
-
-
-
-Returns table
-Fund_details table
-Risk_Ratio table 
